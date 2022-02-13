@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4000px" height="1606px" viewBox="0 0 4000 1606" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo Landscape</title>
+    <defs>
+        <path d="M835.225099,1127.14384 L437.426024,257.988928 L0,1289.93457 L243.637631,1127.14384 L295.778364,991.818255 L608.62276,991.818255 L660.763493,1127.14384 L835.225099,1127.14384 Z M547.607009,834.308153 L357.903492,834.308153 L452.200562,590.278418 L547.607009,834.308153 Z" id="path-1"></path>
+        <filter x="-1.0%" y="-0.6%" width="102.0%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-size="1109.37729" font-weight="bold" letter-spacing="-98.6113155" fill="#0F172A">
+            <tspan x="601.218227" y="1109">u</tspan>
+        </text>
+        <filter x="-1.4%" y="-0.4%" width="108.8%" height="101.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-size="1109.37729" font-weight="bold" letter-spacing="-98.6113155" fill="#0F172A">
+            <tspan x="1560.14143" y="1109">i</tspan>
+        </text>
+        <filter x="-3.8%" y="-0.4%" width="125.0%" height="101.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-7" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-size="1109.37729" font-weight="bold" letter-spacing="-98.6113155" fill="#0F172A">
+            <tspan x="2005.14815" y="1109">i</tspan>
+        </text>
+        <filter x="-3.8%" y="-0.4%" width="125.0%" height="101.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-9" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-size="1109.37729" font-weight="bold" letter-spacing="-98.6113155" fill="#0F172A">
+            <tspan x="1089.99466" y="1109">x</tspan>
+        </text>
+        <filter x="-1.5%" y="-0.4%" width="116.0%" height="101.1%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-11" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-size="1109.37729" font-weight="bold" letter-spacing="-98.6113155" fill="#0F172A">
+            <tspan x="2130.66184" y="1109">a</tspan>
+        </text>
+        <filter x="-1.4%" y="-0.4%" width="108.4%" height="101.1%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-13" points="2028.88172 1128.37549 2028.88172 195.001374 1851.38136 329.732715 1851.38136 1302.25931"></polygon>
+        <filter x="-4.8%" y="-0.6%" width="109.6%" height="101.5%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Logo-Landscape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wordmark" transform="translate(1080.000000, 108.000000)">
+            <g id="Shape" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#0F172A" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-2" transform="translate(2004.655867, 0.102099)"></g>
+            <g id="u" fill="#0F172A" fill-opacity="1">
+                <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                <use xlink:href="#text-3"></use>
+            </g>
+            <g id="i" fill="#0F172A" fill-opacity="1">
+                <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                <use xlink:href="#text-5"></use>
+            </g>
+            <g id="i-copy" fill="#0F172A" fill-opacity="1">
+                <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                <use xlink:href="#text-7"></use>
+            </g>
+            <g id="x" fill="#0F172A" fill-opacity="1">
+                <use filter="url(#filter-10)" xlink:href="#text-9"></use>
+                <use xlink:href="#text-9"></use>
+            </g>
+            <g id="a" fill="#0F172A" fill-opacity="1">
+                <use filter="url(#filter-12)" xlink:href="#text-11"></use>
+                <use xlink:href="#text-11"></use>
+            </g>
+            <g id="Path" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#0F172A" xlink:href="#path-13"></use>
+            </g>
+            <g id="circles" transform="translate(1619.425636, 276.543845)" fill="#4F46E5">
+                <ellipse id="2" cx="112.102424" cy="112.070978" rx="112.102424" ry="112.070978"></ellipse>
+                <ellipse id="1" cx="553.785972" cy="112.070978" rx="112.102424" ry="112.070978"></ellipse>
+            </g>
+        </g>
+        <g id="Logomark" transform="translate(138.000000, 108.000000)">
+            <path d="M405.632067,340.512984 C442.09807,339.425379 476.648386,344.108877 510.519379,350.831634 L510.519379,350.831634 L479.121118,583.395527 L533.5416,355.141268 C818.904378,425.951138 842.585542,707.273713 787.587636,896.027525 C743.608332,1047.53767 762.500276,1131.62312 777.730674,1168.31618 L489.827232,1383.87266 C489.541916,1384.14456 489.270188,1384.14456 488.984872,1383.87266 C488.464407,1383.60285 488.424372,1383.3562 488.421292,1383.08996 L488.421035,1024.97667 C488.421035,926.201761 591.059791,856.241582 664.372218,792.752652 C666.912882,790.495872 669.161437,787.953596 669.161437,784.289728 L669.161437,712.34467 C669.161437,709.238199 667.755241,706.695923 665.214577,704.711044 C662.966021,702.746558 659.576204,701.631763 656.763812,703.038852 C546.210955,759.186449 450.643941,777.798087 426.670669,915.488854 C413.417097,991.390073 447.831548,1036.53927 447.831548,1036.53927 L405.815484,1109.33402 L363.507312,1036.53927 C363.507312,1036.53927 397.901383,991.390073 384.93992,915.488854 C360.694919,777.798087 265.107525,759.186449 154.575048,703.038852 C151.742276,701.631763 148.644568,702.746558 146.103903,704.711044 C143.563239,706.695923 142.157043,709.238199 142.157043,712.34467 L142.157043,784.289728 C142.157043,787.953596 144.405599,790.495872 147.238371,792.752652 C220.258689,856.241582 322.917825,926.201761 322.917825,1024.97667 L322.917825,1383.02296 C322.917825,1383.31526 322.917825,1383.58036 322.625716,1383.87266 C322.068672,1384.14456 322.068672,1384.14456 321.491249,1383.87266 L33.6081859,1168.31618 C48.8182047,1131.62312 67.7305283,1047.53767 23.7308445,896.027525 C-31.2466821,707.273713 -7.56551842,425.951138 277.79726,355.141268 L332.217742,583.110031 L300.737963,350.831634 C334.608956,344.108877 369.159271,339.425379 405.632067,340.512984 Z" id="Helmet" fill="#0F172A"></path>
+            <path d="M558.816137,30.2976539 C546.020516,26.1068381 533.948688,22.3553247 522.432629,19.030193 L470.481116,224.768435 L507.801677,14.9640615 C492.686042,10.9295857 478.494535,7.70394309 464.871722,5.28390361 L436.268986,176.952951 L452.612483,3.30316654 C439.959036,1.47295516 427.70626,0.372114987 415.531033,0 L406.231589,260.944988 L396.925683,0 C384.763381,0.372114987 372.504142,1.47166309 359.850694,3.30316654 L376.18773,176.952951 L347.591456,5.28390361 C333.962181,7.70265102 319.777136,10.9295857 304.655039,14.9640615 L341.982062,224.768435 L290.030549,19.030193 C278.51449,22.3553247 266.436199,26.1068381 253.647041,30.2976539 L316.882457,330.72861 C370.533591,321.50972 448.367032,321.50972 502.018166,330.72861" id="Cap" fill="#4F46E5"></path>
+        </g>
+    </g>
+</svg>
