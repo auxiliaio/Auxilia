@@ -677,6 +677,20 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 100%;
 }
 
+@media (min-width: 280px) {
+
+    .container {
+        max-width: 280px;
+    }
+}
+
+@media (min-width: 360px) {
+
+    .container {
+        max-width: 360px;
+    }
+}
+
 @media (min-width: 640px) {
 
     .container {
@@ -839,6 +853,16 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-right: 3rem;
 }
 
+.mx-2 {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 .mb-7 {
     margin-bottom: 1.75rem;
 }
@@ -875,10 +899,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-top: 0px;
 }
 
-.mb-8 {
-    margin-bottom: 2rem;
-}
-
 .-mt-14 {
     margin-top: -3.5rem;
 }
@@ -905,6 +925,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .ml-2 {
     margin-left: 0.5rem;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
 }
 
 .mb-1 {
@@ -953,10 +977,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mb-10 {
     margin-bottom: 2.5rem;
-}
-
-.mt-20 {
-    margin-top: 5rem;
 }
 
 .mb-20 {
@@ -1780,10 +1800,92 @@ a:hover .icon.prev-post {
     color: rgb(242 242 252 / var(--tw-text-opacity));
 }
 
+@media (min-width: 360px) {
+
+    .xs\:container {
+        width: 100%;
+    }
+
+    @media (min-width: 280px) {
+
+        .xs\:container {
+            max-width: 280px;
+        }
+    }
+
+    @media (min-width: 360px) {
+
+        .xs\:container {
+            max-width: 360px;
+        }
+    }
+
+    @media (min-width: 640px) {
+
+        .xs\:container {
+            max-width: 640px;
+        }
+    }
+
+    @media (min-width: 768px) {
+
+        .xs\:container {
+            max-width: 768px;
+        }
+    }
+
+    @media (min-width: 1024px) {
+
+        .xs\:container {
+            max-width: 1024px;
+        }
+    }
+
+    @media (min-width: 1280px) {
+
+        .xs\:container {
+            max-width: 1280px;
+        }
+    }
+
+    @media (min-width: 1536px) {
+
+        .xs\:container {
+            max-width: 1536px;
+        }
+    }
+
+    .xs\:mb-0 {
+        margin-bottom: 0px;
+    }
+
+    .xs\:mb-4 {
+        margin-bottom: 1rem;
+    }
+
+    .xs\:flex-row {
+        flex-direction: row;
+    }
+}
+
 @media (min-width: 640px) {
 
     .sm\:container {
         width: 100%;
+    }
+
+    @media (min-width: 280px) {
+
+        .sm\:container {
+            max-width: 280px;
+        }
+    }
+
+    @media (min-width: 360px) {
+
+        .sm\:container {
+            max-width: 360px;
+        }
     }
 
     @media (min-width: 640px) {
@@ -1874,10 +1976,6 @@ a:hover .icon.prev-post {
 
     .md\:mt-14 {
         margin-top: 3.5rem;
-    }
-
-    .md\:mt-32 {
-        margin-top: 8rem;
     }
 
     .md\:mb-32 {
