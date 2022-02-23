@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-02-20T18:53:22+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Tasks with Things</title><link href="https://auxilia.io/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>https://auxilia.io/articles/tasks-with-things</id><content type="html" xml:base="https://auxilia.io/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-02-23T18:18:03+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Tasks with Things</title><link href="https://auxilia.io/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>https://auxilia.io/articles/tasks-with-things</id><content type="html" xml:base="https://auxilia.io/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -21,8 +21,7 @@
 &lt;p&gt;Let’s have a closer look at the iPhone and iPad apps.&lt;/p&gt;
 
 &lt;h1 id=&quot;onboarding&quot;&gt;Onboarding&lt;/h1&gt;
-
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -43,7 +42,7 @@
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
 &lt;p&gt;The main view displays your lists &amp;amp; projects. Projects can be grouped into Areas for additional organisation.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -73,7 +72,7 @@
 &lt;h1 id=&quot;today&quot;&gt;Today&lt;/h1&gt;
 &lt;p&gt;The Today screen shows to-dos scheduled to start today. To-dos in Today can be organised either in any order or grouped by list. They can be rearranged and moved to other projects via drag and drop.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -94,7 +93,7 @@
 &lt;h1 id=&quot;to-dos&quot;&gt;To-Dos&lt;/h1&gt;
 &lt;p&gt;Tapping a to-do opens it up in a card that displays the name, checklists, due date, deadlines if any and any tag(s) assigned to the to-do.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -119,7 +118,7 @@
   &lt;li&gt;&lt;strong&gt;Deadline&lt;/strong&gt;. To-dos with due deadlines are highlighted in red and given a separate badge in the Today view.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -147,7 +146,7 @@
   &lt;li&gt;Jumping to a project the to-do is assigned to.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -166,7 +165,7 @@
 &lt;h1 id=&quot;projects&quot;&gt;Projects&lt;/h1&gt;
 &lt;p&gt;Projects are a way of organising related to-dos. They share some of the features of to-dos, such as start dates and deadlines.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -184,7 +183,7 @@
 
 &lt;p&gt;Projects also have headlines that can be used to better organise to-dos into groups. These are created by dragging the Magic Button to the left edge of the project view. Headers can be Archived, moved to another project, or deleted, and they don’t appear in the today view or search results.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -203,7 +202,7 @@
 &lt;h1 id=&quot;upcoming&quot;&gt;Upcoming&lt;/h1&gt;
 &lt;p&gt;This displays upcoming to-dos arranged by date. To-dos can be dragged between dates to reschedule them. If enabled, calendar entries are displayed at the top, with repeating to-dos at the bottom.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -233,7 +232,7 @@
 &lt;h1 id=&quot;logbook&quot;&gt;Logbook&lt;/h1&gt;
 &lt;p&gt;This is where completed to-dos and projects are archived. A to-do can be marked as incomplete and returned to it’s originating project.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -250,8 +249,7 @@
 &lt;/div&gt;
 
 &lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
-
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -286,7 +284,7 @@
   &lt;li&gt;&lt;strong&gt;Import.&lt;/strong&gt; To-dos can be imported from Reminders, Todoist and a host of other task management apps.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -305,7 +303,7 @@
 &lt;h1 id=&quot;things-cloud&quot;&gt;Things Cloud&lt;/h1&gt;
 &lt;p&gt;Things offers free reliable cloud sync across your devices. You can create an account, or log in if you have one.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -329,7 +327,7 @@
   &lt;li&gt;Keeping to-dos on the device and replacing those in Things Cloud.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -359,7 +357,7 @@
   &lt;li&gt;Recently Viewed lists.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -378,7 +376,7 @@
 &lt;h1 id=&quot;things-for-ipad&quot;&gt;Things for iPad&lt;/h1&gt;
 &lt;p&gt;The iPad app offers all the above features on a bigger canvas with additional multi window features. Multiple windows can be open at any given time, and arranged in a variety of ways.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -394,7 +392,7 @@
     
 &lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -410,7 +408,7 @@
     
 &lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -452,12 +450,12 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Science is organised knowledge.&lt;br /&gt;Wisdom is organised life.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Things is a to-do app that is absolutely gorgeous, standing out with its beautiful and intuitive interface balanced with tons of features.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/things" /><media:content medium="image" url="https://auxilia.io/things" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Recordings with Memos</title><link href="https://auxilia.io/articles/recordings-with-memos/" rel="alternate" type="text/html" title="Recordings with Memos" /><published>2021-06-18T00:00:00+03:00</published><updated>2021-06-18T00:00:00+03:00</updated><id>https://auxilia.io/articles/recordings-with-memos</id><content type="html" xml:base="https://auxilia.io/articles/recordings-with-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Things is a to-do app that is absolutely gorgeous, standing out with its beautiful and intuitive interface balanced with tons of features.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/things/things" /><media:content medium="image" url="https://auxilia.io/things/things" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Recordings with Memos</title><link href="https://auxilia.io/articles/recordings-with-memos/" rel="alternate" type="text/html" title="Recordings with Memos" /><published>2021-06-18T00:00:00+03:00</published><updated>2021-06-18T00:00:00+03:00</updated><id>https://auxilia.io/articles/recordings-with-memos</id><content type="html" xml:base="https://auxilia.io/articles/recordings-with-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
 
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
 &lt;p&gt;The Voice Memos app is terribly simple. You get a title at the top, a search bar, a list of all your recordings and a big red button at the bottom.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -483,7 +481,7 @@
   &lt;li&gt;A pause button.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -500,8 +498,7 @@
 &lt;/div&gt;
 
 &lt;h1 id=&quot;trimming&quot;&gt;Trimming&lt;/h1&gt;
-
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -519,7 +516,7 @@
 
 &lt;p&gt;Pausing the recording adds a trim button at the top right, above the waveform. Tapping this opens a new trim screen where the current recording can be shortened using the timeline controls. Once done you can either replace the previous recording with the trimmed version then resume recording, or complete it using the Done button.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -538,7 +535,7 @@
 &lt;h1 id=&quot;recording&quot;&gt;Recording&lt;/h1&gt;
 &lt;p&gt;Each recording can be played, trimmed, edited, duplicated, shared or deleted from the app home screen. Deleting it moved it to a recently deleted screen which can then be emptied later on.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -556,7 +553,7 @@
 
 &lt;p&gt;Recordings can also be organised into folders for easier management. This is done in the Memos screen, where new folders can be created using the folder button at the bottom right.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -577,7 +574,7 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;You can&apos;t find your voice if you don&apos;t use it.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, or a friend attempting to sing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/memos" /><media:content medium="image" url="https://auxilia.io/memos" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I Wear a Watch</title><link href="https://auxilia.io/articles/why-i-wear-a-watch/" rel="alternate" type="text/html" title="Why I Wear a Watch" /><published>2021-05-30T00:00:00+03:00</published><updated>2021-05-30T00:00:00+03:00</updated><id>https://auxilia.io/articles/why-i-wear-a-watch</id><content type="html" xml:base="https://auxilia.io/articles/why-i-wear-a-watch/">&lt;p&gt;I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, or a friend attempting to sing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/memos/memos" /><media:content medium="image" url="https://auxilia.io/memos/memos" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I Wear a Watch</title><link href="https://auxilia.io/articles/why-i-wear-a-watch/" rel="alternate" type="text/html" title="Why I Wear a Watch" /><published>2021-05-30T00:00:00+03:00</published><updated>2021-05-30T00:00:00+03:00</updated><id>https://auxilia.io/articles/why-i-wear-a-watch</id><content type="html" xml:base="https://auxilia.io/articles/why-i-wear-a-watch/">&lt;p&gt;I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.&lt;/p&gt;
 
 &lt;p&gt;But lately it’s really come down to this: When I look at my watch, it gives me the time. It asks nothing in return. It’s a loyal companion without demands.&lt;/p&gt;
 
@@ -587,12 +584,12 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Time is what we want most, but what we use worst.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">As a “technology person”, people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/watch" /><media:content medium="image" url="https://auxilia.io/watch" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="https://auxilia.io/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2020-09-29T00:00:00+03:00</published><updated>2020-09-29T00:00:00+03:00</updated><id>https://auxilia.io/articles/fasting-with-zero</id><content type="html" xml:base="https://auxilia.io/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat. There are a number of apps and services that can help keep track of your fasting. One of these apps is Zero.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">As a “technology person”, people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/watch/watch" /><media:content medium="image" url="https://auxilia.io/watch/watch" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="https://auxilia.io/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2020-09-29T00:00:00+03:00</published><updated>2020-09-29T00:00:00+03:00</updated><id>https://auxilia.io/articles/fasting-with-zero</id><content type="html" xml:base="https://auxilia.io/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat. There are a number of apps and services that can help keep track of your fasting. One of these apps is Zero.&lt;/p&gt;
 
 &lt;h1 id=&quot;onboarding&quot;&gt;Onboarding&lt;/h1&gt;
 &lt;p&gt;Zero is available on the &lt;a href=&quot;https://apps.apple.com/ke/app/zero-simple-fasting-tracker/id1168348542&quot;&gt;App Store&lt;/a&gt; and the &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zerofasting.zero&amp;amp;hl=en_US&quot;&gt;Google Play Store&lt;/a&gt;. While it’s free to download and use, it also has a subscription plan that enhances the fasting experience.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -610,7 +607,7 @@
 
 &lt;p&gt;Launching the app takes you through a 5-step onboarding process that introduces the app, guides you through choosing a fasting plan, setting the timer and creating an account to track your fasting.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -638,7 +635,7 @@
 
 &lt;p&gt;Select the ones that apply to you. You also have the option of selecting the times you start and stop eating.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -666,7 +663,7 @@
 &lt;h2 id=&quot;pre-fasting&quot;&gt;Pre-Fasting&lt;/h2&gt;
 &lt;p&gt;This displays the time since the last fast, as well as the upcoming fast duration. You can also change the type of fast, set a fasting reminder as well as start a new fast.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -685,7 +682,7 @@
 &lt;h2 id=&quot;ongoing-fast&quot;&gt;Ongoing Fast&lt;/h2&gt;
 &lt;p&gt;Once you start a new fast, the timer starts counting either upwards or downwards to your set time. The elapsed time is also shown as a percentage at the top of the time, as well as the fasting start and end times.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -711,7 +708,7 @@
 
 &lt;p&gt;You’ll also see the current fasting zone, which is a Zero Plus feature that displays details of the fasting zone when tapped.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -748,7 +745,7 @@
   &lt;li&gt;Custom Fast, which can be between 1-168 Hrs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -769,7 +766,7 @@
 &lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
 &lt;p&gt;The history screen displays all your fasting statistics. The tabs at the top enable you to switch between the statistics and calendar view. Tapping on each day in the calendar view displays the fasting statistics for that day.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -795,7 +792,7 @@
   &lt;li&gt;Weight&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -825,7 +822,7 @@
   &lt;li&gt;Recent badges and milestones&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -844,7 +841,7 @@
 &lt;h1 id=&quot;learn&quot;&gt;Learn&lt;/h1&gt;
 &lt;p&gt;The 4th screen contains the learning center. This displays articles, videos and audio tracks about fasting. In addition to the Home tab, there are the Videos, Audio and Articles tabs, which are all limited to Zero+ subscribers. Articles can also be bookmarked for later reading.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -874,7 +871,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -903,7 +900,7 @@
 &lt;h1 id=&quot;zero-plus&quot;&gt;Zero Plus&lt;/h1&gt;
 &lt;p&gt;While Zero can be used without subscribing, advanced features are available for those who’d like to get more from their fasting practise. These are available under Zero Plus for $69.99 per month after a 7 day trial.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -941,13 +938,13 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Eat food. Not too much. Mostly plants.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Intermittent fasting is an eating plan where you switch between eating and fasting on a regular schedule.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/zero" /><media:content medium="image" url="https://auxilia.io/zero" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reading with Books</title><link href="https://auxilia.io/articles/reading-with-books/" rel="alternate" type="text/html" title="Reading with Books" /><published>2020-09-14T00:00:00+03:00</published><updated>2020-09-14T00:00:00+03:00</updated><id>https://auxilia.io/articles/reading-with-books</id><content type="html" xml:base="https://auxilia.io/articles/reading-with-books/">&lt;p&gt;The Books app is the default ebook and pdf reading app on iPhones, iPads and Macs. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management, while making the reading experience as fun as possible.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Intermittent fasting is an eating plan where you switch between eating and fasting on a regular schedule.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/zero/zero" /><media:content medium="image" url="https://auxilia.io/zero/zero" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reading with Books</title><link href="https://auxilia.io/articles/reading-with-books/" rel="alternate" type="text/html" title="Reading with Books" /><published>2020-09-14T00:00:00+03:00</published><updated>2020-09-14T00:00:00+03:00</updated><id>https://auxilia.io/articles/reading-with-books</id><content type="html" xml:base="https://auxilia.io/articles/reading-with-books/">&lt;p&gt;The Books app is the default ebook and pdf reading app on iPhones, iPads and Macs. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management, while making the reading experience as fun as possible.&lt;/p&gt;
 
 &lt;h1 id=&quot;reading-now&quot;&gt;Reading Now&lt;/h1&gt;
 
 &lt;p&gt;The app opens in the Reading Now section, which displays the current and recent books you’ve been reading, as well as an Explore and All-Time Bestsellers section for getting additional books. You can also add books to your Want to Read list and they’ll appear under the Current reading books.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -965,7 +962,7 @@
 
 &lt;p&gt;Tapping the user icon at the top right displays your purchases, notification settings, redeeming a gift card or code to use in the Book Store, and a link to view the account settings.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/account.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -992,7 +989,7 @@
   &lt;li&gt;Manually via drag and drop&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/library.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1019,7 +1016,7 @@
   &lt;li&gt;Downloaded&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1047,7 +1044,7 @@
   &lt;li&gt;Shortcuts you’ve created in the Shortcuts app.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1081,7 +1078,7 @@
   &lt;li&gt;Philosophy&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1101,7 +1098,7 @@
 
 &lt;p&gt;You can search for both books and audiobooks in the Search screen. You’ll also get to see your recent searches as well as trending searches near your location.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/search.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1121,7 +1118,7 @@
 
 &lt;p&gt;When you tap a book it opens and displays a clean reading experience.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1162,7 +1159,7 @@
   &lt;li&gt;Bookmark button. This bookmarks the current page and adds it to the Bookmarks section in the menu screen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1182,7 +1179,7 @@
 
 &lt;p&gt;The Books app for iPad has all the features of the iPhone app, with the advantage of displaying more info on the bigger screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1197,7 +1194,7 @@
     &lt;/div&gt;
     
 &lt;/div&gt;
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1212,7 +1209,7 @@
     &lt;/div&gt;
     
 &lt;/div&gt;
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1234,12 +1231,12 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Reading gives us someplace to go &lt;br /&gt;when we have to stay where we are.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sometimes you read a book so special that you want to carry it around with you for months after you&apos;ve finished just to stay near it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/books" /><media:content medium="image" url="https://auxilia.io/books" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sharing with WeTransfer</title><link href="https://auxilia.io/articles/sharing-with-wetransfer/" rel="alternate" type="text/html" title="Sharing with WeTransfer" /><published>2020-09-07T00:00:00+03:00</published><updated>2020-09-07T00:00:00+03:00</updated><id>https://auxilia.io/articles/sharing-with-wetransfer</id><content type="html" xml:base="https://auxilia.io/articles/sharing-with-wetransfer/">&lt;p&gt;For temporary file sharing, you can use services such as &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer&lt;/a&gt; that provide file sharing services without creating an account. All you’ll need is the recipient’s email address and the files you’re sending.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sometimes you read a book so special that you want to carry it around with you for months after you&apos;ve finished just to stay near it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/books/books" /><media:content medium="image" url="https://auxilia.io/books/books" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sharing with WeTransfer</title><link href="https://auxilia.io/articles/sharing-with-wetransfer/" rel="alternate" type="text/html" title="Sharing with WeTransfer" /><published>2020-09-07T00:00:00+03:00</published><updated>2020-09-07T00:00:00+03:00</updated><id>https://auxilia.io/articles/sharing-with-wetransfer</id><content type="html" xml:base="https://auxilia.io/articles/sharing-with-wetransfer/">&lt;p&gt;For temporary file sharing, you can use services such as &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer&lt;/a&gt; that provide file sharing services without creating an account. All you’ll need is the recipient’s email address and the files you’re sending.&lt;/p&gt;
 
 &lt;h1 id=&quot;home-page&quot;&gt;Home Page&lt;/h1&gt;
 &lt;p&gt;Go to &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer.com&lt;/a&gt;. Once you agree to the terms and agreements you’ll get a very simple and easy-to-use interface.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1266,7 +1263,7 @@
 
 &lt;p&gt;Once you’re done adding all the files and recipient, press the Transfer button.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1285,7 +1282,7 @@
 &lt;h1 id=&quot;verification&quot;&gt;Verification&lt;/h1&gt;
 &lt;p&gt;WeTransfer will send a verification code to your email address. Enter this code to send your files.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1304,7 +1301,7 @@
 &lt;h1 id=&quot;transferring&quot;&gt;Transferring&lt;/h1&gt;
 &lt;p&gt;The transfer will start after successful verification. How long it’ll take depends on the size of the files being sent.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1322,7 +1319,7 @@
 
 &lt;p&gt;Once complete you’ll get a success notification.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1340,7 +1337,7 @@
 
 &lt;h1 id=&quot;wetransfer-account&quot;&gt;WeTransfer Account&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1367,7 +1364,7 @@
 
 &lt;p&gt;If you find yourself using WeTransfer frequently, it’d be a great idea to get a free account to streamline the process. You’ll get all the benefits outlined above.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1402,7 +1399,7 @@
   &lt;li&gt;Design your transfer emails, adding custom background for a personal touch.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1423,14 +1420,14 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Efficiency is doing better what is already being done.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Files can be shared online in a wide variety of ways, such as email, WhatsApp, iMessage, Telegram, and via online file storage services.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/wetransfer" /><media:content medium="image" url="https://auxilia.io/wetransfer" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Editing PDFs</title><link href="https://auxilia.io/articles/editing-pdfs/" rel="alternate" type="text/html" title="Editing PDFs" /><published>2020-08-14T00:00:00+03:00</published><updated>2020-08-14T00:00:00+03:00</updated><id>https://auxilia.io/articles/editing-pdfs</id><content type="html" xml:base="https://auxilia.io/articles/editing-pdfs/">&lt;p&gt;PDF is special because it can be viewed without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Files can be shared online in a wide variety of ways, such as email, WhatsApp, iMessage, Telegram, and via online file storage services.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/wetransfer/wetransfer" /><media:content medium="image" url="https://auxilia.io/wetransfer/wetransfer" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Editing PDFs</title><link href="https://auxilia.io/articles/editing-pdfs/" rel="alternate" type="text/html" title="Editing PDFs" /><published>2020-08-14T00:00:00+03:00</published><updated>2020-08-14T00:00:00+03:00</updated><id>https://auxilia.io/articles/editing-pdfs</id><content type="html" xml:base="https://auxilia.io/articles/editing-pdfs/">&lt;p&gt;PDF is special because it can be viewed without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, it also makes it difficult to adjust. Changes such as extracting pages, adding more pages and converting to other file formats require special software or services. One of these services is ILovePDF, a freemium web service for working with PDFs.&lt;/p&gt;
 
 &lt;h1 id=&quot;home-page&quot;&gt;Home Page&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://ILovePDF.com&quot;&gt;ILovePDF.com &lt;/a&gt; has all its tools front and centre on the homepage. These allow PDFs to be edited in a lot of different ways.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1449,7 +1446,7 @@
 &lt;h1 id=&quot;merge-pdf&quot;&gt;Merge PDF&lt;/h1&gt;
 &lt;p&gt;Multiple PDFs can be combined to one using this tool. Select it and you’ll be taken to a page where you can upload the pdfs to be merged. Set the order to be used, then tap Merge PDF.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1477,7 +1474,7 @@
 
 &lt;p&gt;For both options, the resulting files can be merged into a single PDF.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1493,7 +1490,7 @@
     
 &lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1512,7 +1509,7 @@
 &lt;h1 id=&quot;compress-pdf&quot;&gt;Compress PDF&lt;/h1&gt;
 &lt;p&gt;PDFs can get very large, which makes sharing them via email or chat more difficult than necessary. This is where the Compress PDF service comes in play. Tap on it, select the file to be compressed, and leave the compression level as recommended.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1530,7 +1527,7 @@
 
 &lt;p&gt;Tap compress PDF. The file will be uploaded, compressed, and once done the compressed file will be provided to download.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1546,7 +1543,7 @@
     
 &lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1593,7 +1590,7 @@
 &lt;h1 id=&quot;cost&quot;&gt;Cost&lt;/h1&gt;
 &lt;p&gt;While the service is free, the number of files that can be edited is limited to 1 per tool. For instance, you can only Split 1 PDF at a time. The Merge PDF tool can take 25 PDFs at once. There are Premium and Premium Pro plans for advanced users.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1617,12 +1614,12 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;The length of a document defends it &lt;br /&gt;well against the risk of it being read.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">If there’s one document standard that has stood the test of time, it’s the PDF, since it can be easily viewed on a wide variety of devices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/pdfs" /><media:content medium="image" url="https://auxilia.io/pdfs" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Writing Good Emails</title><link href="https://auxilia.io/articles/writing-good-emails/" rel="alternate" type="text/html" title="Writing Good Emails" /><published>2020-07-18T00:00:00+03:00</published><updated>2020-07-18T00:00:00+03:00</updated><id>https://auxilia.io/articles/writing-good-emails</id><content type="html" xml:base="https://auxilia.io/articles/writing-good-emails/">&lt;p&gt;Email is one of the oldest forms of communication we use nowadays. You’d think we’d have learnt how to send them properly, but nothing’s further from the truth. Email etiquette is hard to come by, and that’s why you’re reading this. Here’s how to do it properly (send an email, not rob a bank).&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">If there’s one document standard that has stood the test of time, it’s the PDF, since it can be easily viewed on a wide variety of devices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/pdfs/pdfs" /><media:content medium="image" url="https://auxilia.io/pdfs/pdfs" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Writing Good Emails</title><link href="https://auxilia.io/articles/writing-good-emails/" rel="alternate" type="text/html" title="Writing Good Emails" /><published>2020-07-18T00:00:00+03:00</published><updated>2020-07-18T00:00:00+03:00</updated><id>https://auxilia.io/articles/writing-good-emails</id><content type="html" xml:base="https://auxilia.io/articles/writing-good-emails/">&lt;p&gt;Email is one of the oldest forms of communication we use nowadays. You’d think we’d have learnt how to send them properly, but nothing’s further from the truth. Email etiquette is hard to come by, and that’s why you’re reading this. Here’s how to do it properly (send an email, not rob a bank).&lt;/p&gt;
 
 &lt;h1 id=&quot;start-with-the-subject&quot;&gt;Start with the Subject&lt;/h1&gt;
 &lt;p&gt;The subject is a summary of what the email is about. Starting with it grounds you, keeps you honest. Make sure it’s simple and direct.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1643,7 +1640,7 @@
 
 &lt;p&gt;And do try to keep the number of attachments small. In case of a large number of files create a compressed folder and send that instead. No one likes the idea of downloading 10 different attachments.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1672,7 +1669,7 @@
 &lt;h1 id=&quot;type-the-email&quot;&gt;Type the Email&lt;/h1&gt;
 &lt;p&gt;Keep it short, about 3 paragraphs long. Let the first paragraph be an introduction to what the email is about, the second be a detailed overview and the third a summary and next step to be taken. The shorter the email the more likely it’s going to get read.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1703,7 +1700,7 @@
 &lt;h1 id=&quot;add-the-email-recipients&quot;&gt;Add the Email Recipients&lt;/h1&gt;
 &lt;p&gt;Once you’re done with the message, it’s time to add the recipients. Be considerate. Don’t be that person that adds everyone in the CC and BCC fields. Only add those individuals that are directly involved in the email content.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1722,7 +1719,7 @@
 &lt;h1 id=&quot;send-the-email&quot;&gt;Send the Email&lt;/h1&gt;
 &lt;p&gt;Review the email one last time, then send it. Spark offers a 5 second option to unsend the email in case you’ve forgotten something, or changed your mind.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1743,7 +1740,7 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;If it doesn&apos;t feel right to receive &lt;br /&gt;what you&apos;re sending, don&apos;t send it.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sending emails should be like robbing a bank - you get in, do your thing, and get out. In as little as time as possible.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/emails" /><media:content medium="image" url="https://auxilia.io/emails" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Emailing with Spark</title><link href="https://auxilia.io/articles/emailing-with-spark/" rel="alternate" type="text/html" title="Emailing with Spark" /><published>2020-07-10T00:00:00+03:00</published><updated>2020-07-10T00:00:00+03:00</updated><id>https://auxilia.io/articles/emailing-with-spark</id><content type="html" xml:base="https://auxilia.io/articles/emailing-with-spark/">&lt;p&gt;Emails, to some of us, are like a plague. They spread rapidly, infect you until you’re covered in sores and can’t do anything useful, and ultimately fill the streets with corpses.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sending emails should be like robbing a bank - you get in, do your thing, and get out. In as little as time as possible.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/emails/emails" /><media:content medium="image" url="https://auxilia.io/emails/emails" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Emailing with Spark</title><link href="https://auxilia.io/articles/emailing-with-spark/" rel="alternate" type="text/html" title="Emailing with Spark" /><published>2020-07-10T00:00:00+03:00</published><updated>2020-07-10T00:00:00+03:00</updated><id>https://auxilia.io/articles/emailing-with-spark</id><content type="html" xml:base="https://auxilia.io/articles/emailing-with-spark/">&lt;p&gt;Emails, to some of us, are like a plague. They spread rapidly, infect you until you’re covered in sores and can’t do anything useful, and ultimately fill the streets with corpses.&lt;/p&gt;
 
 &lt;p&gt;Ok, maybe emails aren’t exactly like the plague.&lt;/p&gt;
 
@@ -1761,7 +1758,7 @@
 
 &lt;p&gt;The main screen is a list of your emails currently in Inbox. It’s divided into sections, depending on whether you have Smart Inbox enabled or not.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1802,7 +1799,7 @@
 
 &lt;p&gt;Tapping an email opens it with the title front and center, with buttons for adding a team member and pinning the email at the top right. A pinned email is displayed prominently at the top in the Smart Inbox view and under the pinned folder in the sidebar.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1820,7 +1817,7 @@
 
 &lt;p&gt;The toolbar at the bottom is customisable with the following buttons:&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto single&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1838,7 +1835,7 @@
 
 &lt;p&gt;You can create a link to the email and share it with anyone, giving them access to the email without forwarding it to them. Snoozing an email removes it from the Inbox and returns it at the time of your choosing across all your devices, with optional notifications when this happens. This can be useful when you receive an important email you’d like to handle later.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1862,7 +1859,7 @@
 
 &lt;p&gt;Composing emails is done by tapping the big blue button at the bottom right corner. This opens a window with a cancel button, the email you’re sending from at the top, and a send button. The sending email address can be changed by tapping the email address and selecting from any of your currently logged in addresses. Tapping the close button provides a menu for minimising, saving or deleting the draft.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1885,7 +1882,7 @@
   &lt;li&gt;&lt;strong&gt;Templates&lt;/strong&gt;: Templates make composing emails a breeze. You just select the template from the list and fill in the missing info.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1908,7 +1905,7 @@
   &lt;li&gt;&lt;strong&gt;Invite Teammate&lt;/strong&gt;: Spark offers Team collaboration features that allow you to share emails with your team members. You can use this button to invite your team members to the email thread.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1928,7 +1925,7 @@
 
 &lt;p&gt;The sidebar displays all your email accounts and their associated folders. Like almost everything in Spark, the folder list is highly customisable. You can add and remove folders such as Pinned, Archive, Sent and Spam, as well as rearrange them to suit your needs.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1950,7 +1947,7 @@
 
 &lt;p&gt;You can customise a ton of things in the settings screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1972,7 +1969,7 @@
 &lt;h2 id=&quot;email-viewer&quot;&gt;Email Viewer&lt;/h2&gt;
 &lt;p&gt;This offers a number of useful features such as customising the viewer toolbar, what to do when an email is archived or deleted and whether to show contact avatars.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -1991,7 +1988,7 @@
 &lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
 &lt;p&gt;One of Spark’s unique features is integration with multiple 3rd party services for processing your emails. You can send them to online file storage services like Dropbox and Google Drive as well as task management systems like Asana, Trello, Things and Todoist.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2013,7 +2010,7 @@
 &lt;h2 id=&quot;appearance&quot;&gt;Appearance&lt;/h2&gt;
 &lt;p&gt;Spark supports light and dark themes that can be synchronised to the devices dark theme settings.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2032,7 +2029,7 @@
 &lt;h2 id=&quot;swipes&quot;&gt;Swipes&lt;/h2&gt;
 &lt;p&gt;This provides swipe actions on emails. You can mark as read/unread, delete, archive, move, pin, snooze, move to spam as well as send to your 3rd party integrations.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2051,7 +2048,7 @@
 &lt;h2 id=&quot;signature&quot;&gt;Signature&lt;/h2&gt;
 &lt;p&gt;You can add your plain text or HTML based email signatures and restrict them to specific email accounts. Signatures can be changed easily when composing emails via left or right swipe gestures.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2099,7 +2096,7 @@
 &lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
 &lt;p&gt;This page gives you an overview of the latest features added to Spark.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2145,7 +2142,7 @@
 &lt;h2 id=&quot;search&quot;&gt;Search&lt;/h2&gt;
 &lt;p&gt;Spark offers powerful search capabilities with the option of saving searches for later.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2167,7 +2164,7 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Email is the way of the past, present and future.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Spark enhances the email experience with a number of features such as a smart unified inbox, email snoozing and customisable notifications.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/spark" /><media:content medium="image" url="https://auxilia.io/spark" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Podcasts with Pocket Casts</title><link href="https://auxilia.io/articles/podcasts-with-pocket-casts/" rel="alternate" type="text/html" title="Podcasts with Pocket Casts" /><published>2020-06-07T00:00:00+03:00</published><updated>2020-06-07T00:00:00+03:00</updated><id>https://auxilia.io/articles/podcasts-with-pocket-casts</id><content type="html" xml:base="https://auxilia.io/articles/podcasts-with-pocket-casts/">&lt;p&gt;Simply put, a podcast is a series of spoken audio episodes that often focus on a particular topic or theme. You can listen to one directly from its website, if it has one, or by subscribing to it via an app. Some of the most popular apps are Pocket Casts, Overcast, Castro and Anchor.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Spark enhances the email experience with a number of features such as a smart unified inbox, email snoozing and customisable notifications.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/spark/spark" /><media:content medium="image" url="https://auxilia.io/spark/spark" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Podcasts with Pocket Casts</title><link href="https://auxilia.io/articles/podcasts-with-pocket-casts/" rel="alternate" type="text/html" title="Podcasts with Pocket Casts" /><published>2020-06-07T00:00:00+03:00</published><updated>2020-06-07T00:00:00+03:00</updated><id>https://auxilia.io/articles/podcasts-with-pocket-casts</id><content type="html" xml:base="https://auxilia.io/articles/podcasts-with-pocket-casts/">&lt;p&gt;Simply put, a podcast is a series of spoken audio episodes that often focus on a particular topic or theme. You can listen to one directly from its website, if it has one, or by subscribing to it via an app. Some of the most popular apps are Pocket Casts, Overcast, Castro and Anchor.&lt;/p&gt;
 
 &lt;p&gt;Pocket Casts is available for iOS, Android, macOS, Windows and the web. It’s free to download on iOS and Android. The web player requires a subscription to use, as do additional features in the mobile apps. You can downloaded it from &lt;a href=&quot;https://www.pocketcasts.com&quot;&gt;the official website.&lt;/a&gt;&lt;/p&gt;
 
@@ -2184,7 +2181,7 @@
   &lt;li&gt;Be shared as lists.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2202,7 +2199,7 @@
 
 &lt;p&gt;Tapping on a podcast icon opens the podcast page with info on what the podcast is about, the downloaded episodes, when the episodes aired, and settings for changing when the podcast is downloaded, whether to get notifications and whether to skip intro and outro music like the power user that you are.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2231,7 +2228,7 @@
   &lt;li&gt;Podcast episode star status&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2259,7 +2256,7 @@
   &lt;li&gt;Category browser&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2281,7 +2278,7 @@
 
 &lt;p&gt;This view displays your user account, listening statistics and history, downloaded files and copied files as well as starred podcast episode. There’s a section at the top showcasing the number of podcasts you’ve subscribed to and how much time you’ve spent listening to them.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2299,7 +2296,7 @@
 
 &lt;p&gt;The account section has details of the currently logged in account with the option of upgrading to Pocket Casts Plus. The Plus subscription plan provides a web player, additional app icons, extra themes and 10 GB of cloud Storage for custom files at $0.99 per month.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2319,7 +2316,7 @@
 
 &lt;p&gt;You can use Pocket Casts to listen to custom audio files such as audiobooks. You add these files by sharing them to the app from your devices files app. Subscribers to Pocket Casts Plus can upload the episodes to the cloud and access them on the go.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2339,7 +2336,7 @@
 
 &lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2368,7 +2365,7 @@
   &lt;li&gt;&lt;strong&gt;Help&lt;/strong&gt;, &lt;strong&gt;Feedback&lt;/strong&gt; and &lt;strong&gt;About&lt;/strong&gt; the app.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2388,7 +2385,7 @@
 
 &lt;p&gt;The now playing screen has everything you might need when playing your podcast episodes. The podcast artwork is displayed front and centre with the play, rewind and forward buttons below it. The duration of the rewind and forward buttons can be customised from the Settings screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2406,7 +2403,7 @@
 
 &lt;p&gt;Tabs are available at the top for switching from Now Playing to Show Notes to Chapters if the podcast episode has them. Audiobooks displays chapters instead of notes.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2424,7 +2421,7 @@
 
 &lt;p&gt;The queue button is at the top right corner, and it can also be accessed with a swipe up gesture. Episodes can be rearranged and removed from the queue with easy gestures.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2456,7 +2453,7 @@
 
 &lt;p&gt;Only 4 options are displayed on screen, with the last ones delegated to the overflow menu button.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2495,7 +2492,7 @@
   &lt;li&gt;Epic change logs. Go to the about page and waste hours of your life reading their engaging change logs. It’s time well spent 🤓&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;media my-8 w-full md:w-[95%] mx-auto multiple&quot;&gt;
+&lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
     &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
@@ -2521,4 +2518,4 @@
 
 &lt;div class=&quot;my-10 mx-20 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Listening is being able to be changed by the other person.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Pocket Casts does a great job with podcasts, providing a host of features such as auto-download, auto-archive, and reliable search.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/casts" /><media:content medium="image" url="https://auxilia.io/casts" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Pocket Casts does a great job with podcasts, providing a host of features such as auto-download, auto-archive, and reliable search.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/casts/casts" /><media:content medium="image" url="https://auxilia.io/casts/casts" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -1055,12 +1055,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 100%;
 }
 
-.w-7 {
-    width: 1.75rem;
-}
-
 .w-\[90\%\] {
     width: 90%;
+}
+
+.w-7 {
+    width: 1.75rem;
 }
 
 .w-\[80\%\] {
@@ -1374,6 +1374,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-right: 0.5rem;
 }
 
+.pb-12 {
+    padding-bottom: 3rem;
+}
+
 .pb-4 {
     padding-bottom: 1rem;
 }
@@ -1411,14 +1415,14 @@ Ensure the default browser behavior of the `hidden` attribute.
     line-height: 1.75rem;
 }
 
-.text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
-}
-
 .text-5xl {
     font-size: 3rem;
     line-height: 1;
+}
+
+.text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
 }
 
 .font-medium {
@@ -1460,20 +1464,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-dark {
     --tw-text-opacity: 1;
     color: rgb(55 48 163 / var(--tw-text-opacity));
-}
-
-.underline {
-    -webkit-text-decoration-line: underline;
-            text-decoration-line: underline;
-}
-
-.decoration-dark {
-    -webkit-text-decoration-color: #3730a3;
-            text-decoration-color: #3730a3;
-}
-
-.decoration-2 {
-    text-decoration-thickness: 2px;
 }
 
 .shadow-lg {
@@ -1891,6 +1881,10 @@ a:hover .icon.prev-post {
         width: 95%;
     }
 
+    .md\:w-\[70\%\] {
+        width: 70%;
+    }
+
     .md\:w-1\/2 {
         width: 50%;
     }
@@ -1913,10 +1907,6 @@ a:hover .icon.prev-post {
 
     .md\:w-\[75\%\] {
         width: 75%;
-    }
-
-    .md\:w-\[70\%\] {
-        width: 70%;
     }
 
     .md\:max-w-2xl {
