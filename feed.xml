@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-02-23T18:18:03+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Tasks with Things</title><link href="https://auxilia.io/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>https://auxilia.io/articles/tasks-with-things</id><content type="html" xml:base="https://auxilia.io/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-02-23T19:08:16+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Tasks with Things</title><link href="https://auxilia.io/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>https://auxilia.io/articles/tasks-with-things</id><content type="html" xml:base="https://auxilia.io/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -24,7 +24,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -45,7 +45,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -75,7 +75,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -96,7 +96,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -121,7 +121,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -149,7 +149,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -168,7 +168,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -186,7 +186,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -205,7 +205,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -235,7 +235,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -252,7 +252,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -287,7 +287,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -306,7 +306,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -330,7 +330,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -360,7 +360,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -379,7 +379,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -395,7 +395,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -411,7 +411,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -458,7 +458,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -484,7 +484,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -501,7 +501,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -519,7 +519,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -538,7 +538,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -556,7 +556,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -592,7 +592,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -610,7 +610,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -638,7 +638,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -666,7 +666,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -685,7 +685,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -711,7 +711,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -748,7 +748,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -769,7 +769,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -795,7 +795,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -825,7 +825,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -844,7 +844,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -874,7 +874,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -903,7 +903,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -947,7 +947,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -965,7 +965,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/account.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/account.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -992,7 +992,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/library.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/library.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1019,7 +1019,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1047,7 +1047,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1081,7 +1081,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1101,7 +1101,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/search.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/search.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1121,7 +1121,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1162,7 +1162,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1182,7 +1182,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1197,7 +1197,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1212,7 +1212,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1239,7 +1239,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1266,7 +1266,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1285,7 +1285,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1304,7 +1304,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1322,7 +1322,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1340,7 +1340,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1367,7 +1367,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1402,7 +1402,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1430,7 +1430,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1449,7 +1449,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1477,7 +1477,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1493,7 +1493,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1512,7 +1512,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1530,7 +1530,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1546,7 +1546,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1593,7 +1593,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1622,7 +1622,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1643,7 +1643,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1672,7 +1672,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1703,7 +1703,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1722,7 +1722,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1761,7 +1761,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1802,7 +1802,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1820,7 +1820,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1838,7 +1838,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1862,7 +1862,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1885,7 +1885,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1908,7 +1908,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1928,7 +1928,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1950,7 +1950,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1972,7 +1972,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1991,7 +1991,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2013,7 +2013,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2032,7 +2032,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2051,7 +2051,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2099,7 +2099,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2145,7 +2145,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2184,7 +2184,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2202,7 +2202,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2231,7 +2231,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2259,7 +2259,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2281,7 +2281,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2299,7 +2299,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2319,7 +2319,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2339,7 +2339,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2368,7 +2368,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2388,7 +2388,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2406,7 +2406,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2424,7 +2424,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2456,7 +2456,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2495,7 +2495,7 @@
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
     
     
-    &lt;img src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; class=&quot;rounded-xl lazyload&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-xl lozad&quot; data-src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
