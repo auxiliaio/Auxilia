@@ -860,12 +860,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-bottom: 0.25rem;
 }
 
-.-mt-20 {
-    margin-top: -5rem;
-}
-
 .mb-2 {
     margin-bottom: 0.5rem;
+}
+
+.-mt-20 {
+    margin-top: -5rem;
 }
 
 .mb-6 {
@@ -1010,6 +1010,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-10 {
     width: 2.5rem;
+}
+
+.w-\[70\%\] {
+    width: 70%;
 }
 
 .w-6 {
@@ -1184,12 +1188,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding: 1.25rem;
 }
 
-.p-3 {
-    padding: 0.75rem;
-}
-
 .p-7 {
     padding: 1.75rem;
+}
+
+.p-3 {
+    padding: 0.75rem;
 }
 
 .py-1 {
@@ -1301,12 +1305,12 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-bottom: 2rem;
 }
 
-.pl-10 {
-    padding-left: 2.5rem;
-}
-
 .pb-2 {
     padding-bottom: 0.5rem;
+}
+
+.pl-10 {
+    padding-left: 2.5rem;
 }
 
 .pr-2 {
@@ -1762,6 +1766,14 @@ a:hover .icon.prev-post {
 
     .sm\:-mt-8 {
         margin-top: -2rem;
+    }
+
+    .sm\:w-\[30\%\] {
+        width: 30%;
+    }
+
+    .sm\:w-\[70\%\] {
+        width: 70%;
     }
 
     .sm\:flex-row {
