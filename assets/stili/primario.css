@@ -2084,8 +2084,8 @@ a:hover .icon.prev-post {
         padding-right: 0.75rem;
     }
 
-    .lg\:pr-2 {
-        padding-right: 0.5rem;
+    .lg\:pr-0 {
+        padding-right: 0px;
     }
 
     .lg\:text-2xl {
