@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-03-18T22:21:03+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Creating Voice Memos</title><link href="https://auxilia.io/articles/creating-voice-memos/" rel="alternate" type="text/html" title="Creating Voice Memos" /><published>2022-02-24T00:00:00+03:00</published><updated>2022-02-24T00:00:00+03:00</updated><id>https://auxilia.io/articles/creating-voice-memos</id><content type="html" xml:base="https://auxilia.io/articles/creating-voice-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-03-18T22:27:11+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Creating Voice Memos</title><link href="https://auxilia.io/articles/creating-voice-memos/" rel="alternate" type="text/html" title="Creating Voice Memos" /><published>2022-02-24T00:00:00+03:00</published><updated>2022-02-24T00:00:00+03:00</updated><id>https://auxilia.io/articles/creating-voice-memos</id><content type="html" xml:base="https://auxilia.io/articles/creating-voice-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
 
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
 &lt;p&gt;The Voice Memos app is terribly simple. You get a title at the top, a search bar, a list of all your recordings and a big red button at the bottom.&lt;/p&gt;
@@ -7,7 +7,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -34,7 +34,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -53,7 +53,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -72,7 +72,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -92,7 +92,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -111,7 +111,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -148,7 +148,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -170,7 +170,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -200,7 +200,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -232,7 +232,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -252,7 +252,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -276,7 +276,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -299,7 +299,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -321,7 +321,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -352,7 +352,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -374,7 +374,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -400,7 +400,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -429,7 +429,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -449,7 +449,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -468,7 +468,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -488,7 +488,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -519,7 +519,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -538,7 +538,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -574,7 +574,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -594,7 +594,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -619,7 +619,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -650,7 +650,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -670,7 +670,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -687,7 +687,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -704,7 +704,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -752,7 +752,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -771,7 +771,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -800,7 +800,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -829,7 +829,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -849,7 +849,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -876,7 +876,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -914,7 +914,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -936,7 +936,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -963,7 +963,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -994,7 +994,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1014,7 +1014,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1045,7 +1045,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1075,7 +1075,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1132,7 +1132,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1174,7 +1174,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1193,7 +1193,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1212,7 +1212,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1237,7 +1237,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1261,7 +1261,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1285,7 +1285,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1306,7 +1306,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1329,7 +1329,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1352,7 +1352,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1372,7 +1372,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1395,7 +1395,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1415,7 +1415,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1435,7 +1435,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1484,7 +1484,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1531,7 +1531,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1560,7 +1560,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1579,7 +1579,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/account.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/account.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1607,7 +1607,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/library.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/library.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1635,7 +1635,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1664,7 +1664,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1699,7 +1699,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1720,7 +1720,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/search.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/search.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1741,7 +1741,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1783,7 +1783,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1804,7 +1804,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1820,7 +1820,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1836,7 +1836,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1864,7 +1864,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1892,7 +1892,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1912,7 +1912,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1932,7 +1932,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1951,7 +1951,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1970,7 +1970,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -1998,7 +1998,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2034,7 +2034,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2063,7 +2063,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2083,7 +2083,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2112,7 +2112,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2129,7 +2129,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2149,7 +2149,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2168,7 +2168,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2185,7 +2185,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2233,7 +2233,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2275,7 +2275,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2294,7 +2294,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2324,7 +2324,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2353,7 +2353,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2376,7 +2376,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2395,7 +2395,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2416,7 +2416,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2437,7 +2437,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2467,7 +2467,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2488,7 +2488,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2507,7 +2507,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2526,7 +2526,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2559,7 +2559,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
@@ -2599,7 +2599,7 @@
 
     
     
-    &lt;img class=&quot;rounded-lg lazy&quot; src=&quot;/assets/foto/altro/lazyload.webp&quot; data-src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; alt=&quot;&quot; /&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; alt=&quot;&quot; /&gt;
     
     
     
