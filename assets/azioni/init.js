@@ -2,7 +2,7 @@
 var testim = document.getElementById("testim");
 var testimDots = Array.prototype.slice.call(document.getElementById("testim-dots").children);
 var testimContent = Array.prototype.slice.call(document.getElementById("testim-content").children);
-var testimSpeed = 15000;
+var testimSpeed = 7000;
 var currentSlide = 0;
 var currentActive = 0;
 var testimTimer;
