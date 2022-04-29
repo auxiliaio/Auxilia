@@ -2133,10 +2133,6 @@ a:hover .icon.prev-post {
         width: 50%;
     }
 
-    .md\:w-2\/3 {
-        width: 66.666667%;
-    }
-
     .md\:max-w-2xl {
         max-width: 42rem;
     }
