@@ -1700,7 +1700,7 @@ select {
 }
 
 html {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 span {
@@ -1993,6 +1993,12 @@ a:hover .icon.prev-post {
 .content a:visited {
     color: var(--dark);
 }
+
+@media (min-width: 768px) {
+html {
+    font-size: 16px;
+}
+    }
 
 .hover\:rounded-lg:hover {
     border-radius: 0.5rem;
