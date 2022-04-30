@@ -2253,6 +2253,11 @@ html {
         line-height: 1.75rem;
     }
 
+    .md\:text-lg {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+    }
+
     .md\:text-5xl {
         font-size: 3rem;
         line-height: 1;
