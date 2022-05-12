@@ -2398,8 +2398,8 @@ html {
         width: 65%;
     }
 
-    .xl\:pr-4 {
-        padding-right: 1rem;
+    .xl\:pr-0 {
+        padding-right: 0px;
     }
 }
 
