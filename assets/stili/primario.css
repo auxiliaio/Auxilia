@@ -1179,6 +1179,10 @@ select {
     height: 12rem;
 }
 
+.h-32 {
+    height: 8rem;
+}
+
 .h-40 {
     height: 10rem;
 }
@@ -1223,8 +1227,8 @@ select {
     width: 85%;
 }
 
-.w-20 {
-    width: 5rem;
+.w-16 {
+    width: 4rem;
 }
 
 .max-w-7xl {
@@ -2293,10 +2297,6 @@ html {
         margin-bottom: 0px;
     }
 
-    .lg\:ml-32 {
-        margin-left: 8rem;
-    }
-
     .lg\:h-44 {
         height: 11rem;
     }
@@ -2313,16 +2313,8 @@ html {
         width: 80%;
     }
 
-    .lg\:w-24 {
-        width: 6rem;
-    }
-
     .lg\:grid-cols-2 {
         grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-
-    .lg\:grid-cols-3 {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
     .lg\:rounded-none {
@@ -2368,15 +2360,6 @@ html {
         padding-left: 1.75rem;
     }
 
-    .lg\:pr-0 {
-        padding-right: 0px;
-    }
-
-    .lg\:text-2xl {
-        font-size: 1.5rem;
-        line-height: 2rem;
-    }
-
     .lg\:drop-shadow-none {
         --tw-drop-shadow: drop-shadow(0 0 #0000);
         filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
@@ -2396,10 +2379,6 @@ html {
 
     .xl\:w-\[65\%\] {
         width: 65%;
-    }
-
-    .xl\:pr-0 {
-        padding-right: 0px;
     }
 }
 
