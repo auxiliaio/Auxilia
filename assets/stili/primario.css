@@ -1955,7 +1955,6 @@ a:hover .icon.prev-post {
     content: "•";
     margin-right: 0.5em;
     color: var(--brand);
-
 }
 
 .content ul li {
@@ -1967,6 +1966,7 @@ a:hover .icon.prev-post {
     margin: 1em auto;
     height: auto;
     width: 100%;
+
 }
 
 .caption {
