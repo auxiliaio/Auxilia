@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:7000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:7000/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-08-07T18:16:52+03:00</updated><id>http://localhost:7000/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Creating Voice Memos</title><link href="http://localhost:7000/articles/creating-voice-memos/" rel="alternate" type="text/html" title="Creating Voice Memos" /><published>2022-02-24T00:00:00+03:00</published><updated>2022-02-24T00:00:00+03:00</updated><id>http://localhost:7000/articles/creating-voice-memos</id><content type="html" xml:base="http://localhost:7000/articles/creating-voice-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_UK"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://auxilia.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://auxilia.io/" rel="alternate" type="text/html" hreflang="en_UK" /><updated>2022-08-09T18:38:02+03:00</updated><id>https://auxilia.io/feed.xml</id><title type="html">Auxilia</title><subtitle>Design is thinking made visual.</subtitle><author><name>Joshua M.</name></author><entry><title type="html">Creating Voice Memos</title><link href="https://auxilia.io/articles/creating-voice-memos/" rel="alternate" type="text/html" title="Creating Voice Memos" /><published>2022-02-24T00:00:00+03:00</published><updated>2022-02-24T00:00:00+03:00</updated><id>https://auxilia.io/articles/creating-voice-memos</id><content type="html" xml:base="https://auxilia.io/articles/creating-voice-memos/">&lt;p&gt;One of the best ways to make recordings is the Voice Memos app, available for free on all Apple devices.&lt;/p&gt;
 
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
 &lt;p&gt;The Voice Memos app is terribly simple. You get a title at the top, a search bar, a list of all your recordings and a big red button at the bottom.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/homescreen.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Voice Memos home screen, with and without recordings.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Voice Memos home screen, with and without recordings.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;recording-screen&quot;&gt;Recording Screen&lt;/h1&gt;
 &lt;p&gt;Tapping the button opens a minimised recording screen that can be expanded to fill up the whole screen by swiping up. This screen displays:&lt;/p&gt;
@@ -27,109 +28,113 @@
   &lt;li&gt;A waveform of the recording.&lt;/li&gt;
   &lt;li&gt;Current recording time.&lt;/li&gt;
   &lt;li&gt;Rewind, play/pause and forward buttons.&lt;/li&gt;
-  &lt;li&gt;A pause button.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A pause button.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Recording screens, minimised and maximised.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_screen.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Recording screens, minimised and maximised.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;trimming&quot;&gt;Trimming&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/recording_and_trimming.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Pausing recording and trimming screen.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Pausing recording and trimming screen.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Pausing the recording adds a trim button at the top right, above the waveform. Tapping this opens a new trim screen where the current recording can be shortened using the timeline controls. Once done you can either replace the previous recording with the trimmed version then resume recording, or complete it using the Done button.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Post trimming screen.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/post_trim.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Post trimming screen.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;recording&quot;&gt;Recording&lt;/h1&gt;
 &lt;p&gt;Each recording can be played, trimmed, edited, duplicated, shared or deleted from the app home screen. Deleting it moved it to a recently deleted screen which can then be emptied later on.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Recording share menu.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/share_menu.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Recording share menu.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Recordings can also be organised into folders for easier management. This is done in the Memos screen, where new folders can be created using the folder button at the bottom right.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/memos/selection.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Recording selection and organisation.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Recording selection and organisation.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 &lt;p&gt;Most current devices offer a recording app by default and Apple’s Voice Memos app gets the job done via a simple but powerful interface full of useful features. That is why it’s the most use voice recording app on all their platforms, and you should give it a try to see if it’ll fit your recording needs.&lt;/p&gt;
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;You can't find your voice if you don't use it.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, or a friend attempting to sing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/memos/memos" /><media:content medium="image" url="http://localhost:7000/memos/memos" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I Wear a Watch</title><link href="http://localhost:7000/articles/why-i-wear-a-watch/" rel="alternate" type="text/html" title="Why I Wear a Watch" /><published>2022-02-20T00:00:00+03:00</published><updated>2022-02-20T00:00:00+03:00</updated><id>http://localhost:7000/articles/why-i-wear-a-watch</id><content type="html" xml:base="http://localhost:7000/articles/why-i-wear-a-watch/">&lt;p&gt;I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">We all need to record something now and then, be it a podcast, a tune you’d like to listen to later, or a friend attempting to sing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/memos/memos" /><media:content medium="image" url="https://auxilia.io/memos/memos" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I Wear a Watch</title><link href="https://auxilia.io/articles/why-i-wear-a-watch/" rel="alternate" type="text/html" title="Why I Wear a Watch" /><published>2022-02-20T00:00:00+03:00</published><updated>2022-02-20T00:00:00+03:00</updated><id>https://auxilia.io/articles/why-i-wear-a-watch</id><content type="html" xml:base="https://auxilia.io/articles/why-i-wear-a-watch/">&lt;p&gt;I love mechanical watches for a number of reasons – the art, the science, the ingenuity behind the mechanisms, the continuation of a craft dating back centuries, the look, the feel, the freedom from batteries and tethers and cords.&lt;/p&gt;
 
 &lt;p&gt;But lately it’s really come down to this: When I look at my watch, it gives me the time. It asks nothing in return. It’s a loyal companion without demands.&lt;/p&gt;
 
@@ -139,27 +144,27 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;The only thing we can truly own is our time.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">As a “technology person”, people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/watch/watch" /><media:content medium="image" url="http://localhost:7000/watch/watch" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Writing Good Emails</title><link href="http://localhost:7000/articles/writing-good-emails/" rel="alternate" type="text/html" title="Writing Good Emails" /><published>2022-02-14T00:00:00+03:00</published><updated>2022-02-14T00:00:00+03:00</updated><id>http://localhost:7000/articles/writing-good-emails</id><content type="html" xml:base="http://localhost:7000/articles/writing-good-emails/">&lt;p&gt;Email is one of the oldest forms of communication we use nowadays. You’d think we’d have learnt how to send them properly, but nothing’s further from the truth. Email etiquette is hard to come by, and that’s why you’re reading this. Here’s how to do it properly (send an email, not rob a bank).&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">As a “technology person”, people ask me why I wear a mechanical watch when I already have the time on my phone?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/watch/watch" /><media:content medium="image" url="https://auxilia.io/watch/watch" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Writing Good Emails</title><link href="https://auxilia.io/articles/writing-good-emails/" rel="alternate" type="text/html" title="Writing Good Emails" /><published>2022-02-14T00:00:00+03:00</published><updated>2022-02-14T00:00:00+03:00</updated><id>https://auxilia.io/articles/writing-good-emails</id><content type="html" xml:base="https://auxilia.io/articles/writing-good-emails/">&lt;p&gt;Email is one of the oldest forms of communication we use nowadays. You’d think we’d have learnt how to send them properly, but nothing’s further from the truth. Email etiquette is hard to come by, and that’s why you’re reading this. Here’s how to do it properly (send an email, not rob a bank).&lt;/p&gt;
 
 &lt;h1 id=&quot;start-with-the-subject&quot;&gt;Start with the Subject&lt;/h1&gt;
 &lt;p&gt;The subject is a summary of what the email is about. Starting with it grounds you, keeps you honest. Make sure it’s simple and direct.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;A short simple subject.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_subject.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;A short simple subject.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;add-your-attachments&quot;&gt;Add Your Attachments&lt;/h1&gt;
 &lt;p&gt;Few things are as disappointing as having an email clearly indicating that I should kindly find something attached and not finding it. It sours the whole deal. So don’t be that guy or girl. If you have attachments, attach them first.&lt;/p&gt;
@@ -167,21 +172,21 @@
 &lt;p&gt;And do try to keep the number of attachments small. In case of a large number of files create a compressed folder and send that instead. No one likes the idea of downloading 10 different attachments.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Adding attachments.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/add_attachments.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Adding attachments.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;pick-a-salutation&quot;&gt;Pick a Salutation&lt;/h1&gt;
 &lt;p&gt;This depends on your relationship with the email recipient(s). It can be any of the following:&lt;/p&gt;
@@ -197,21 +202,21 @@
 &lt;p&gt;Keep it short, about 3 paragraphs long. Let the first paragraph be an introduction to what the email is about, the second be a detailed overview and the third a summary and next step to be taken. The shorter the email the more likely it’s going to get read.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Keep it simple and to the point.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_content.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Keep it simple and to the point.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;have-an-a-engaging-signoff&quot;&gt;Have an a Engaging Signoff&lt;/h1&gt;
 &lt;p&gt;It’s good to end the email on an upbeat manner. This helps them remember you. You can:&lt;/p&gt;
@@ -229,65 +234,66 @@
 &lt;p&gt;Once you’re done with the message, it’s time to add the recipients. Be considerate. Don’t be that person that adds everyone in the CC and BCC fields. Only add those individuals that are directly involved in the email content.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Adding just the right amount of recipients.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/adding_recipients.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Adding just the right amount of recipients.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;send-the-email&quot;&gt;Send the Email&lt;/h1&gt;
 &lt;p&gt;Review the email one last time, then send it. Spark offers a 5 second option to unsend the email in case you’ve forgotten something, or changed your mind.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Review, then send.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/emails/email_review.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Review, then send.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 &lt;p&gt;That’s it. Sending emails really is that simple. And in case you’re not using the Spark app to send and receive emails, &lt;a href=&quot;https://auxilia.io/articles/emailing-with-spark/&quot;&gt;read our review&lt;/a&gt; and see what you’ve been missing.&lt;/p&gt;
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;If it doesn't feel right to receive what you're sending, don't send it.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sending emails should be like robbing a bank - you get in, do your thing, and get out. In as little as time as possible.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/emails/emails" /><media:content medium="image" url="http://localhost:7000/emails/emails" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tasks with Things</title><link href="http://localhost:7000/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-10T00:00:00+03:00</published><updated>2022-02-10T00:00:00+03:00</updated><id>http://localhost:7000/articles/tasks-with-things</id><content type="html" xml:base="http://localhost:7000/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sending emails should be like robbing a bank - you get in, do your thing, and get out. In as little as time as possible.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/emails/emails" /><media:content medium="image" url="https://auxilia.io/emails/emails" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tasks with Things</title><link href="https://auxilia.io/articles/tasks-with-things/" rel="alternate" type="text/html" title="Tasks with Things" /><published>2022-02-10T00:00:00+03:00</published><updated>2022-02-10T00:00:00+03:00</updated><id>https://auxilia.io/articles/tasks-with-things</id><content type="html" xml:base="https://auxilia.io/articles/tasks-with-things/">&lt;p&gt;Things is an iPhone, iPad, Mac and Apple Watch to-do &amp;amp; project management app that is &lt;em&gt;absolutely gorgeous&lt;/em&gt;. I mean, just look at this:&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_demo.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Go on, admit it... You just want to lick the damn thing, don't you? &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Go on, admit it... You just want to lick the damn thing, don't you? &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Despite being one in a multitude of similar apps such as Todoist, GoodTask, Reminders, Google Keep and OmniFocus, Things manages to stand out with its beautiful and intuitive interface balanced with tons of features that make it a great personal task manager.&lt;/p&gt;
 
@@ -295,44 +301,46 @@
 
 &lt;h1 id=&quot;onboarding&quot;&gt;Onboarding&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/onboarding.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;A tutorial project is provided to guide you on how best to use the app. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;A tutorial project is provided to guide you on how best to use the app. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Once you download Things from the App Store it takes you through the various views on the home page. These are &lt;em&gt;Inbox, Today, Upcoming, Anytime, Someday&lt;/em&gt; and &lt;em&gt;Logbook&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;homescreen&quot;&gt;Homescreen&lt;/h1&gt;
 &lt;p&gt;The main view displays your lists &amp;amp; projects. Projects can be grouped into Areas for additional organisation.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/homescreen.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Left: Main Things display. Right: Magic Button. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Left: Main Things display. Right: Magic Button. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The Settings button at the bottom opens up the settings page. You can also use the Quick Find search bar at the top to look for a specific to-do, project or tag across the whole app.&lt;/p&gt;
 
@@ -348,44 +356,46 @@
 &lt;h1 id=&quot;today&quot;&gt;Today&lt;/h1&gt;
 &lt;p&gt;The Today screen shows to-dos scheduled to start today. To-dos in Today can be organised either in any order or grouped by list. They can be rearranged and moved to other projects via drag and drop.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_today.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Today view with to-do arrangement options. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Today view with to-do arrangement options. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Incomplete to-dos get rolled forward to the following day.&lt;/p&gt;
 
 &lt;h1 id=&quot;to-dos&quot;&gt;To-Dos&lt;/h1&gt;
 &lt;p&gt;Tapping a to-do opens it up in a card that displays the name, checklists, due date, deadlines if any and any tag(s) assigned to the to-do.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_schedule.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;To-do display with scheduling options. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;To-do display with scheduling options. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;A to-do has the following options:&lt;/p&gt;
 
@@ -393,25 +403,27 @@
   &lt;li&gt;&lt;strong&gt;Start Date&lt;/strong&gt;. This can be set to Today, This Evening, a specific date using a date picker, and Someday. Swiping down on the date picker reveal a search bar that can be used to enter a specific date. You can also add a reminder that will show a notification when the to-do is due. Lastly, you can tap the Clear button to remove any dates and reminders.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;. A to-do can have multiple tags assigned to it, which can then be used to filter to-dos having the same tags.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Checklists&lt;/strong&gt;. Each to-do can have a checklist of to-dos in it. These can be freely reordered and deleted. If a to-do has too many checklists it can be converted to a project, with the checklist items becoming fully fledged to-dos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Deadline&lt;/strong&gt;. To-dos with due deadlines are highlighted in red and given a separate badge in the Today view.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt;. To-dos with due deadlines are highlighted in red and given a separate badge in the Today view.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Tags &amp;amp; checklists. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/tags_checklists.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Tags &amp;amp; checklists. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Additional options available for to-dos include:&lt;/p&gt;
 
@@ -422,84 +434,89 @@
   &lt;li&gt;Duplicating a to-do. There’s no limit to how many times you can duplicate a single to-do.&lt;/li&gt;
   &lt;li&gt;Sharing the to-do. This provides options to share to another app, or get the link to the to-do for linking back to it from another app.&lt;/li&gt;
   &lt;li&gt;Changing the project that a to-do belongs to.&lt;/li&gt;
-  &lt;li&gt;Jumping to a project the to-do is assigned to.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jumping to a project the to-do is assigned to.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;To-do menu actions. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/to_do_menu_actions.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;To-do menu actions. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;projects&quot;&gt;Projects&lt;/h1&gt;
 &lt;p&gt;Projects are a way of organising related to-dos. They share some of the features of to-dos, such as start dates and deadlines.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_actions.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;The menu at the top displays project actions such as setting a start date, a deadline and duplicating it. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;The menu at the top displays project actions such as setting a start date, a deadline and duplicating it. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Projects also have headlines that can be used to better organise to-dos into groups. These are created by dragging the Magic Button to the left edge of the project view. Headers can be Archived, moved to another project, or deleted, and they don’t appear in the today view or search results.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/project_headers.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Creating a project header and its associate options. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Creating a project header and its associate options. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;upcoming&quot;&gt;Upcoming&lt;/h1&gt;
 &lt;p&gt;This displays upcoming to-dos arranged by date. To-dos can be dragged between dates to reschedule them. If enabled, calendar entries are displayed at the top, with repeating to-dos at the bottom.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/upcoming_anytime.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Upcoming &amp;amp; Anytime. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Upcoming &amp;amp;amp; Anytime. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;anytime&quot;&gt;Anytime&lt;/h1&gt;
 &lt;p&gt;The Anytime view displays two types of to-dos, organised by project:&lt;/p&gt;
@@ -515,41 +532,43 @@
 &lt;h1 id=&quot;logbook&quot;&gt;Logbook&lt;/h1&gt;
 &lt;p&gt;This is where completed to-dos and projects are archived. A to-do can be marked as incomplete and returned to it’s originating project.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/someday_logbook.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Someday &amp;amp; Logbook. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Someday &amp;amp;amp; Logbook. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_settings.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Things Settings. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Things Settings. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Things offers a wide variety of settings for customising it to your liking. These include:&lt;/p&gt;
 
@@ -567,70 +586,75 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Help.&lt;/strong&gt; This provides support and guides for using gestures, keyboard shortcuts, productivity tips as well as creating a tutorial project.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Import.&lt;/strong&gt; To-dos can be imported from Reminders, Todoist and a host of other task management apps.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Import.&lt;/strong&gt; To-dos can be imported from Reminders, Todoist and a host of other task management apps.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Help and Import options. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/help_import.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Help and Import options. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;things-cloud&quot;&gt;Things Cloud&lt;/h1&gt;
 &lt;p&gt;Things offers free reliable cloud sync across your devices. You can create an account, or log in if you have one.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_01.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Log in and sync options. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Log in and sync options. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;If to-dos are found in the cloud account, the following options are provided:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Merging all to-dos.&lt;/li&gt;
   &lt;li&gt;Deleting local to-dos and replacing them with to-dos on Things Cloud.&lt;/li&gt;
-  &lt;li&gt;Keeping to-dos on the device and replacing those in Things Cloud.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keeping to-dos on the device and replacing those in Things Cloud.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Things Cloud sync. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_cloud_02.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Things Cloud sync. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Once sync is completed you can edit your account settings and configure Mail to Things. This allows you to send emails to a specific account, which then get added to your Things Inbox.&lt;/p&gt;
 
@@ -643,79 +667,84 @@
   &lt;li&gt;Tomorrow.&lt;/li&gt;
   &lt;li&gt;All Projects.&lt;/li&gt;
   &lt;li&gt;Logged Projects.&lt;/li&gt;
-  &lt;li&gt;Recently Viewed lists.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recently Viewed lists.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Quick Find pull down gesture &amp;amp; search results. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/things_quick_find.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Quick Find pull down gesture &amp;amp; search results. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;things-for-ipad&quot;&gt;Things for iPad&lt;/h1&gt;
 &lt;p&gt;The iPad app offers all the above features on a bigger canvas with additional multi window features. Multiple windows can be open at any given time, and arranged in a variety of ways.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
+    
+    
+    
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
+        
+        
+        &amp;lt;h3&amp;gt;Multiple windows in Recent Apps. &amp;lt;/h3&amp;gt;
+        
+    &amp;lt;/div&amp;gt;
+    
+&amp;lt;/div&amp;gt; 
 
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_01.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Multiple windows in Recent Apps. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
+    
+    
+    
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
+        
+        
+        &amp;lt;h3&amp;gt;Single main Things window with another instance in Slide Over. &amp;lt;/h3&amp;gt;
+        
+    &amp;lt;/div&amp;gt;
+    
+&amp;lt;/div&amp;gt; 
 
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_02.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Single main Things window with another instance in Slide Over. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; alt=&quot;&quot; /&gt;
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/things/iPad_multiple_windows_03.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Two Things windows arranged side by side. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Two Things windows arranged side by side. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;To-dos can be easily dragged from one window to another. This can be really useful when using the Upcoming list to schedule your to-dos.&lt;/p&gt;
 
@@ -743,46 +772,48 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Science is organised knowledge. Wisdom is organised life.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Things is a to-do app that is absolutely gorgeous, standing out with its beautiful and intuitive interface balanced with tons of features.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/things/things" /><media:content medium="image" url="http://localhost:7000/things/things" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="http://localhost:7000/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>http://localhost:7000/articles/fasting-with-zero</id><content type="html" xml:base="http://localhost:7000/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat. There are a number of apps and services that can help keep track of your fasting. One of these apps is Zero.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Things is a to-do app that is absolutely gorgeous, standing out with its beautiful and intuitive interface balanced with tons of features.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/things/things" /><media:content medium="image" url="https://auxilia.io/things/things" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fasting with Zero</title><link href="https://auxilia.io/articles/fasting-with-zero/" rel="alternate" type="text/html" title="Fasting with Zero" /><published>2022-02-05T00:00:00+03:00</published><updated>2022-02-05T00:00:00+03:00</updated><id>https://auxilia.io/articles/fasting-with-zero</id><content type="html" xml:base="https://auxilia.io/articles/fasting-with-zero/">&lt;p&gt;Intermittent fasting, currently one of the world’s most popular health trends, is not concerned with &lt;em&gt;what&lt;/em&gt; you eat, but rather &lt;em&gt;when&lt;/em&gt; you eat. There are a number of apps and services that can help keep track of your fasting. One of these apps is Zero.&lt;/p&gt;
 
 &lt;h1 id=&quot;onboarding&quot;&gt;Onboarding&lt;/h1&gt;
 &lt;p&gt;Zero is available on the &lt;a href=&quot;https://apps.apple.com/ke/app/zero-simple-fasting-tracker/id1168348542&quot;&gt;App Store&lt;/a&gt; and the &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zerofasting.zero&amp;amp;hl=en_US&quot;&gt;Google Play Store&lt;/a&gt;. While it’s free to download and use, it also has a subscription plan that enhances the fasting experience.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-01.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Welcome screen.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Welcome screen.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Launching the app takes you through a 5-step onboarding process that introduces the app, guides you through choosing a fasting plan, setting the timer and creating an account to track your fasting.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-02.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Plan for fasting and eating times.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Plan for fasting and eating times.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Zero gives you 5 fasting reasons:&lt;/p&gt;
 &lt;ul&gt;
@@ -796,22 +827,23 @@
 
 &lt;p&gt;Select the ones that apply to you. You also have the option of selecting the times you start and stop eating.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/onboarding-03.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Fasting suggestions and summary.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Fasting suggestions and summary.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Once you’re done with the previous step you’ll be provided with the fasting type that applies to you, as well as the option to create an account for tracking your fasting sessions. You can also log into your account if you’ve got one already.&lt;/p&gt;
 
@@ -826,41 +858,41 @@
 &lt;p&gt;This displays the time since the last fast, as well as the upcoming fast duration. You can also change the type of fast, set a fasting reminder as well as start a new fast.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Pre-fasting timer.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/pre-fasting.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Pre-fasting timer.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h2 id=&quot;ongoing-fast&quot;&gt;Ongoing Fast&lt;/h2&gt;
 &lt;p&gt;Once you start a new fast, the timer starts counting either upwards or downwards to your set time. The elapsed time is also shown as a percentage at the top of the time, as well as the fasting start and end times.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Ongoing fast timer.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/ongoing-fast.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Ongoing fast timer.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;You can also do the following from this screen:&lt;/p&gt;
 &lt;ul&gt;
@@ -872,22 +904,23 @@
 
 &lt;p&gt;You’ll also see the current fasting zone, which is a Zero Plus feature that displays details of the fasting zone when tapped.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/journal-and-ending-fast.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Updating the fasting journal and ending the fast.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Updating the fasting journal and ending the fast.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The end fast screen enables you to:&lt;/p&gt;
 &lt;ul&gt;
@@ -907,47 +940,50 @@
   &lt;li&gt;18:6 TRF - 18 Hrs&lt;/li&gt;
   &lt;li&gt;20:4 TRF - 20 Hrs&lt;/li&gt;
   &lt;li&gt;36-Hour Fast - 36 Hrs&lt;/li&gt;
-  &lt;li&gt;Custom Fast, which can be between 1-168 Hrs&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Custom Fast, which can be between 1-168 Hrs&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Fasting goals.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-goals.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Fasting goals.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Zero plus subscribers can save multiple custom fasts as presets for easier switching.&lt;/p&gt;
 
 &lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
 &lt;p&gt;The history screen displays all your fasting statistics. The tabs at the top enable you to switch between the statistics and calendar view. Tapping on each day in the calendar view displays the fasting statistics for that day.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-history.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Fasting history statistics.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Fasting history statistics.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;You get the following summary stats at the top of the statistics tab:&lt;/p&gt;
 &lt;ul&gt;
@@ -956,25 +992,27 @@
   &lt;li&gt;Longest fast&lt;/li&gt;
   &lt;li&gt;Longest streak&lt;/li&gt;
   &lt;li&gt;Current streak&lt;/li&gt;
-  &lt;li&gt;Weight&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Weight&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Detailed fasting statistics graphs.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-stats.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Detailed fasting statistics graphs.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;The statistics section is further divided into the following sections:&lt;/p&gt;
 &lt;ul&gt;
@@ -987,45 +1025,48 @@
   &lt;li&gt;Fasting Hours vs Sleep (Zero+)&lt;/li&gt;
   &lt;li&gt;Resting Heart Rate (RHR)&lt;/li&gt;
   &lt;li&gt;Fasting Hours vs RHR (Zero+)&lt;/li&gt;
-  &lt;li&gt;Recent badges and milestones&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recent badges and milestones&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Fasting badges &amp;amp; milestones.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/fasting-badges.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Fasting badges &amp;amp; milestones.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;learn&quot;&gt;Learn&lt;/h1&gt;
 &lt;p&gt;The 4th screen contains the learning center. This displays articles, videos and audio tracks about fasting. In addition to the Home tab, there are the Videos, Audio and Articles tabs, which are all limited to Zero+ subscribers. Articles can also be bookmarked for later reading.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/learn.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Learn screen and single article view.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Learn screen and single article view.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
 &lt;p&gt;You access the app’s settings via the settings icon at the top right of the History screen. You can change the following settings:&lt;/p&gt;
@@ -1036,27 +1077,29 @@
   &lt;li&gt;Notifications. These include:
     &lt;ul&gt;
       &lt;li&gt;Reminders for weighing in, starting a fast, updating the fasting journal, and new content and app updates.&lt;/li&gt;
-      &lt;li&gt;Milestone notifications for reaching your fasting goal, halfway alerts, achieving your fasting goal and your current fasting zone.&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Milestone notifications for reaching your fasting goal, halfway alerts, achieving your fasting goal and your current fasting zone.&lt;/p&gt;
+
+        &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+    &lt;div class=&quot;caption&quot;&gt;
+            
+            
+        &lt;h3&gt;Zero settings.&lt;/h3&gt;
+            
+    &lt;/div&gt;
+        
+&lt;/div&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/settings.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Zero settings.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;You have the following options under the accounts section:&lt;/p&gt;
 &lt;ul&gt;
@@ -1071,22 +1114,23 @@
 &lt;h1 id=&quot;zero-plus&quot;&gt;Zero Plus&lt;/h1&gt;
 &lt;p&gt;While Zero can be used without subscribing, advanced features are available for those who’d like to get more from their fasting practise. These are available under Zero Plus for $69.99 per month after a 7 day trial.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/zero/zero-plus.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Zero Plus.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Zero Plus.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The following features are available for Zero Plus subscribers:&lt;/p&gt;
 &lt;ul&gt;
@@ -1110,7 +1154,7 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Eat food. Not too much. Mostly plants.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Intermittent fasting is an eating plan where you switch between eating and fasting on a regular schedule.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/zero/zero" /><media:content medium="image" url="http://localhost:7000/zero/zero" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Emailing with Spark</title><link href="http://localhost:7000/articles/emailing-with-spark/" rel="alternate" type="text/html" title="Emailing with Spark" /><published>2022-02-02T00:00:00+03:00</published><updated>2022-02-02T00:00:00+03:00</updated><id>http://localhost:7000/articles/emailing-with-spark</id><content type="html" xml:base="http://localhost:7000/articles/emailing-with-spark/">&lt;p&gt;Emails, to some of us, are like a plague. They spread rapidly, infect you until you’re covered in sores and can’t do anything useful, and ultimately fill the streets with corpses.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Intermittent fasting is an eating plan where you switch between eating and fasting on a regular schedule.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/zero/zero" /><media:content medium="image" url="https://auxilia.io/zero/zero" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Emailing with Spark</title><link href="https://auxilia.io/articles/emailing-with-spark/" rel="alternate" type="text/html" title="Emailing with Spark" /><published>2022-02-02T00:00:00+03:00</published><updated>2022-02-02T00:00:00+03:00</updated><id>https://auxilia.io/articles/emailing-with-spark</id><content type="html" xml:base="https://auxilia.io/articles/emailing-with-spark/">&lt;p&gt;Emails, to some of us, are like a plague. They spread rapidly, infect you until you’re covered in sores and can’t do anything useful, and ultimately fill the streets with corpses.&lt;/p&gt;
 
 &lt;p&gt;Ok, maybe emails aren’t exactly like the plague.&lt;/p&gt;
 
@@ -1128,22 +1172,23 @@
 
 &lt;p&gt;The main screen is a list of your emails currently in Inbox. It’s divided into sections, depending on whether you have Smart Inbox enabled or not.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_view.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Smart Inbox &amp;amp; Normal Inbox views. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Smart Inbox &amp;amp;amp; Normal Inbox views. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;When Smart Inbox is enables, the list is divided into:&lt;/p&gt;
 
@@ -1170,60 +1215,62 @@
 
 &lt;p&gt;Tapping an email opens it with the title front and center, with buttons for adding a team member and pinning the email at the top right. A pinned email is displayed prominently at the top in the Smart Inbox view and under the pinned folder in the sidebar.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/open_email.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Left: Open email view. Right: Email view with collapsed toolbar.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Left: Open email view. Right: Email view with collapsed toolbar.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The toolbar at the bottom is customisable with the following buttons:&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Toolbar buttons.&lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/toolbar_buttons.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Toolbar buttons.&lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;You can create a link to the email and share it with anyone, giving them access to the email without forwarding it to them. Snoozing an email removes it from the Inbox and returns it at the time of your choosing across all your devices, with optional notifications when this happens. This can be useful when you receive an important email you’d like to handle later.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_menu_and_snoozing.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Email menu and email snoozing.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Email menu and email snoozing.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;You can also send an email to other apps using the Services menu. For instance, you can convert an email to a Things task with a link that takes you back to the email in Spark when clicked. Spark offers integration with services such as Dropbox, Google Drive, Trello, Todoist, Asana and OneNote.&lt;/p&gt;
 
@@ -1233,91 +1280,94 @@
 
 &lt;p&gt;Composing emails is done by tapping the big blue button at the bottom right corner. This opens a window with a cancel button, the email you’re sending from at the top, and a send button. The sending email address can be changed by tapping the email address and selecting from any of your currently logged in addresses. Tapping the close button provides a menu for minimising, saving or deleting the draft.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_and_dismiss.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;New email composing screen and dismiss options.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;New email composing screen and dismiss options.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The toolbar at the bottom has 6 buttons:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Attachment&lt;/strong&gt;: You can attach photos and documents via the Files app. Spark provides a carousel of recent photos at the top for easy attaching. You can also take a photo from this screen and attach it to the email.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Templates&lt;/strong&gt;: Templates make composing emails a breeze. You just select the template from the list and fill in the missing info.&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Templates&lt;/strong&gt;: Templates make composing emails a breeze. You just select the template from the list and fill in the missing info.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
         
         
-        &lt;h3&gt;Left: Add attachements to email. Right: Use a template for quick email creation.&lt;/h3&gt;
         
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-
-&lt;ul&gt;
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_attachments_and_templates.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Left: Add attachements to email. Right: Use a template for quick email creation.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Text Editor&lt;/strong&gt;: This provides editing options such as bold, italic, font size &amp;amp; colour, changing font, creating lists and adding links.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Set a Reminder&lt;/strong&gt;: This gives you the option of setting a reminder to a sent email for following up later on.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Send Later&lt;/strong&gt;: This allows you to schedule an email for sending later if your email server supports it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Invite Teammate&lt;/strong&gt;: Spark offers Team collaboration features that allow you to share emails with your team members. You can use this button to invite your team members to the email thread.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Invite Teammate&lt;/strong&gt;: Spark offers Team collaboration features that allow you to share emails with your team members. You can use this button to invite your team members to the email thread.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Email reminder and send later function.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/compose_reminder_and_send_later.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Email reminder and send later function.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;sidebar--calendar&quot;&gt;Sidebar &amp;amp; Calendar&lt;/h1&gt;
 
 &lt;p&gt;The sidebar displays all your email accounts and their associated folders. Like almost everything in Spark, the folder list is highly customisable. You can add and remove folders such as Pinned, Archive, Sent and Spam, as well as rearrange them to suit your needs.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/sidebar_and_calendar.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Customisable sidebar and inbuilt Calendar view.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Customisable sidebar and inbuilt Calendar view.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The Calendar screen displays the calendar entries from your currently logged in accounts. So if you have a Gmail account with calendar entries, they’ll appear here. You can also create entries using natural language processing and sync them to your calendar.&lt;/p&gt;
 
@@ -1325,22 +1375,23 @@
 
 &lt;p&gt;You can customise a ton of things in the settings screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/settings_view.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Spark settings.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Spark settings.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;email-accounts&quot;&gt;Email Accounts&lt;/h2&gt;
 &lt;p&gt;This displays your currently logged in email accounts, a button for adding new accounts and settings one as default. You can also color code your accounts to view them easily in the unified inbox.&lt;/p&gt;
@@ -1348,42 +1399,44 @@
 &lt;h2 id=&quot;email-viewer&quot;&gt;Email Viewer&lt;/h2&gt;
 &lt;p&gt;This offers a number of useful features such as customising the viewer toolbar, what to do when an email is archived or deleted and whether to show contact avatars.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_accounts_and_viewer.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Left: Email accounts. Right: Email viewer options.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Left: Email accounts. Right: Email viewer options.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
 &lt;p&gt;One of Spark’s unique features is integration with multiple 3rd party services for processing your emails. You can send them to online file storage services like Dropbox and Google Drive as well as task management systems like Asana, Trello, Things and Todoist.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/email_services.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Available email services.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Available email services.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;smart-inbox&quot;&gt;Smart Inbox&lt;/h2&gt;
 &lt;p&gt;You can enable what categories are shown in the Smart Inbox view.&lt;/p&gt;
@@ -1391,62 +1444,65 @@
 &lt;h2 id=&quot;appearance&quot;&gt;Appearance&lt;/h2&gt;
 &lt;p&gt;Spark supports light and dark themes that can be synchronised to the devices dark theme settings.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/smart_inbox_and_appearance.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Smart Inbox options and appearance settings.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Smart Inbox options and appearance settings.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;swipes&quot;&gt;Swipes&lt;/h2&gt;
 &lt;p&gt;This provides swipe actions on emails. You can mark as read/unread, delete, archive, move, pin, snooze, move to spam as well as send to your 3rd party integrations.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/swipe_settings.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Inbox swipe settings.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Inbox swipe settings.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;signature&quot;&gt;Signature&lt;/h2&gt;
 &lt;p&gt;You can add your plain text or HTML based email signatures and restrict them to specific email accounts. Signatures can be changed easily when composing emails via left or right swipe gestures.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/signatures_and_notifications.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Left: Email signature options. Right: Notifications settings.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Left: Email signature options. Right: Notifications settings.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;notifications&quot;&gt;Notifications&lt;/h2&gt;
 &lt;p&gt;One of the best features of Spark, this gives you granular control of how your notifications appear, whether they’re grouped or not, which ones you get, and what actions to perform on them directly from the notification. You can further customise the notification type to display:&lt;/p&gt;
@@ -1480,22 +1536,23 @@
 &lt;h2 id=&quot;whats-new&quot;&gt;What’s New?&lt;/h2&gt;
 &lt;p&gt;This page gives you an overview of the latest features added to Spark.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/security_and_whats_new.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Left: Email security settings. Right: What's New info screen.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Left: Email security settings. Right: What's New info screen.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;spark-for-teams&quot;&gt;Spark for Teams&lt;/h1&gt;
 &lt;p&gt;Spark offers collaborative features that allow teams to:&lt;/p&gt;
@@ -1527,22 +1584,23 @@
 &lt;h2 id=&quot;search&quot;&gt;Search&lt;/h2&gt;
 &lt;p&gt;Spark offers powerful search capabilities with the option of saving searches for later.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/spark/inbox_zero_and_search.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Inbox Zero &amp;amp; Search.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Inbox Zero &amp;amp;amp; Search.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 
@@ -1550,47 +1608,48 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Email is the way of the past, present and future.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Spark enhances the email experience with a number of features such as a smart unified inbox, email snoozing and customisable notifications.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/spark/spark" /><media:content medium="image" url="http://localhost:7000/spark/spark" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reading with Books</title><link href="http://localhost:7000/articles/reading-with-books/" rel="alternate" type="text/html" title="Reading with Books" /><published>2022-01-30T00:00:00+03:00</published><updated>2022-01-30T00:00:00+03:00</updated><id>http://localhost:7000/articles/reading-with-books</id><content type="html" xml:base="http://localhost:7000/articles/reading-with-books/">&lt;p&gt;The Books app is the default ebook and pdf reading app on iPhones, iPads and Macs. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management, while making the reading experience as fun as possible.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Spark enhances the email experience with a number of features such as a smart unified inbox, email snoozing and customisable notifications.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/spark/spark" /><media:content medium="image" url="https://auxilia.io/spark/spark" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reading with Books</title><link href="https://auxilia.io/articles/reading-with-books/" rel="alternate" type="text/html" title="Reading with Books" /><published>2022-01-30T00:00:00+03:00</published><updated>2022-01-30T00:00:00+03:00</updated><id>https://auxilia.io/articles/reading-with-books</id><content type="html" xml:base="https://auxilia.io/articles/reading-with-books/">&lt;p&gt;The Books app is the default ebook and pdf reading app on iPhones, iPads and Macs. It enables you to add your own books and pdfs, buy and download them from the inbuilt store as well as arrange them into collections for easier management, while making the reading experience as fun as possible.&lt;/p&gt;
 
 &lt;h1 id=&quot;reading-now&quot;&gt;Reading Now&lt;/h1&gt;
 
 &lt;p&gt;The app opens in the Reading Now section, which displays the current and recent books you’ve been reading, as well as an Explore and All-Time Bestsellers section for getting additional books. You can also add books to your Want to Read list and they’ll appear under the Current reading books.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-now.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Current and Recent books, with Explore and Bestsellers. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Current and Recent books, with Explore and Bestsellers. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Tapping the user icon at the top right displays your purchases, notification settings, redeeming a gift card or code to use in the Book Store, and a link to view the account settings.&lt;/p&gt;
 
 &lt;div class=&quot;media my-8 w-[90%] md:w-[70%] mx-auto&quot;&gt;
-
     
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/account.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
         
         
-        &lt;h3&gt;Account screen options. &lt;/h3&gt;
+        &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/account.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+        &lt;div class=&quot;caption&quot;&gt;
+            
+            
+            &lt;h3&gt;Account screen options. &lt;/h3&gt;
+            
+        &lt;/div&gt;
         
     &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;library&quot;&gt;Library&lt;/h1&gt;
 
@@ -1600,25 +1659,27 @@
   &lt;li&gt;Title&lt;/li&gt;
   &lt;li&gt;Author&lt;/li&gt;
   &lt;li&gt;Recently Added&lt;/li&gt;
-  &lt;li&gt;Manually via drag and drop&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manually via drag and drop&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/library.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Library view with grid and list view. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/library.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Library view with grid and list view. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Books are arranged into the following default collections:&lt;/p&gt;
 
@@ -1628,25 +1689,27 @@
   &lt;li&gt;Books&lt;/li&gt;
   &lt;li&gt;Audiobooks&lt;/li&gt;
   &lt;li&gt;PDFs&lt;/li&gt;
-  &lt;li&gt;Downloaded&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Downloaded&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Book collections, and adding books to collections via the Edit button. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/collections.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Book collections, and adding books to collections via the Edit button. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;The Edit button at the top right enables you to select multiple books and either share, delete or add them to your collections. Tapping on the menu button next to each book displays a load of options including:&lt;/p&gt;
 
@@ -1657,25 +1720,27 @@
   &lt;li&gt;Marking as finished.&lt;/li&gt;
   &lt;li&gt;Removing it.&lt;/li&gt;
   &lt;li&gt;Copying the book.&lt;/li&gt;
-  &lt;li&gt;Shortcuts you’ve created in the Shortcuts app.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shortcuts you’ve created in the Shortcuts app.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Single book menu. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-menu.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Single book menu. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;book-store&quot;&gt;Book Store&lt;/h1&gt;
 
@@ -1692,67 +1757,71 @@
 &lt;ul&gt;
   &lt;li&gt;General&lt;/li&gt;
   &lt;li&gt;History&lt;/li&gt;
-  &lt;li&gt;Philosophy&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Philosophy&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Inbuilt Book Store. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/book-store.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Inbuilt Book Store. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;search&quot;&gt;Search&lt;/h1&gt;
 
 &lt;p&gt;You can search for both books and audiobooks in the Search screen. You’ll also get to see your recent searches as well as trending searches near your location.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/search.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/search.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Search screen, with recent and trending searches. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Search screen, with recent and trending searches. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;reading-experience&quot;&gt;Reading Experience&lt;/h1&gt;
 
 &lt;p&gt;When you tap a book it opens and displays a clean reading experience.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Reading in portrait and landscape. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Reading in portrait and landscape. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Tapping anywhere on the screen displays a progress bar of how much you’ve read the book, as well as the following options:&lt;/p&gt;
 
@@ -1776,78 +1845,81 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Search, which enables you to search for any text or page number in the book.&lt;/li&gt;
-  &lt;li&gt;Bookmark button. This bookmarks the current page and adds it to the Bookmarks section in the menu screen.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bookmark button. This bookmarks the current page and adds it to the Bookmarks section in the menu screen.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt; Book navigation and reading options. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/reading-options.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt; Book navigation and reading options. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;ipad-app&quot;&gt;iPad App&lt;/h1&gt;
 
 &lt;p&gt;The Books app for iPad has all the features of the iPhone app, with the advantage of displaying more info on the bigger screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-reading-now.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Reading now view.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Reading now view.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; alt=&quot;&quot; /&gt;
+&amp;lt;/div&amp;gt;  
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Library screen. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; alt=&quot;&quot; /&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-library.jpg&quot; alt=&quot;&quot; /&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Book Store.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Library screen. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt;  
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
+    
+    
+    
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/books/ipad-store.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
+        
+        
+        &amp;lt;h3&amp;gt;Book Store.&amp;lt;/h3&amp;gt;
+        
+    &amp;lt;/div&amp;gt;
+    
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 
@@ -1855,27 +1927,28 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Reading gives us someplace to go when we have to stay where we are.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/books/books" /><media:content medium="image" url="http://localhost:7000/books/books" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sharing with WeTransfer</title><link href="http://localhost:7000/articles/sharing-with-wetransfer/" rel="alternate" type="text/html" title="Sharing with WeTransfer" /><published>2022-01-24T00:00:00+03:00</published><updated>2022-01-24T00:00:00+03:00</updated><id>http://localhost:7000/articles/sharing-with-wetransfer</id><content type="html" xml:base="http://localhost:7000/articles/sharing-with-wetransfer/">&lt;p&gt;For temporary file sharing, you can use services such as &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer&lt;/a&gt; that provide file sharing services without creating an account. All you’ll need is the recipient’s email address and the files you’re sending.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Sometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/books/books" /><media:content medium="image" url="https://auxilia.io/books/books" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sharing with WeTransfer</title><link href="https://auxilia.io/articles/sharing-with-wetransfer/" rel="alternate" type="text/html" title="Sharing with WeTransfer" /><published>2022-01-24T00:00:00+03:00</published><updated>2022-01-24T00:00:00+03:00</updated><id>https://auxilia.io/articles/sharing-with-wetransfer</id><content type="html" xml:base="https://auxilia.io/articles/sharing-with-wetransfer/">&lt;p&gt;For temporary file sharing, you can use services such as &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer&lt;/a&gt; that provide file sharing services without creating an account. All you’ll need is the recipient’s email address and the files you’re sending.&lt;/p&gt;
 
 &lt;h1 id=&quot;home-page&quot;&gt;Home Page&lt;/h1&gt;
 &lt;p&gt;Go to &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer.com&lt;/a&gt;. Once you agree to the terms and agreements you’ll get a very simple and easy-to-use interface.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/adding-screen.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;File adding screen. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;File adding screen. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;sending-files&quot;&gt;Sending Files&lt;/h1&gt;
 &lt;p&gt;The process of sending files is simple:&lt;/p&gt;
@@ -1888,100 +1961,105 @@
 
 &lt;p&gt;Once you’re done adding all the files and recipient, press the Transfer button.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/ready-to-send.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Verify everything then press Transfer.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Verify everything then press Transfer.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;verification&quot;&gt;Verification&lt;/h1&gt;
 &lt;p&gt;WeTransfer will send a verification code to your email address. Enter this code to send your files.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/verification.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Enter the verification code sent to your email to send.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Enter the verification code sent to your email to send.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;transferring&quot;&gt;Transferring&lt;/h1&gt;
 &lt;p&gt;The transfer will start after successful verification. How long it’ll take depends on the size of the files being sent.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/transferring.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Transferring progress.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Transferring progress.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Once complete you’ll get a success notification.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/success.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Successful transfer notification. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Successful transfer notification. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;wetransfer-account&quot;&gt;WeTransfer Account&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/logging-in.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Login in screen. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Login in screen. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;While you can use the service without creating an account, there are some benefits to doing so. You’ll be able to:&lt;/p&gt;
 &lt;ul&gt;
@@ -1994,22 +2072,23 @@
 
 &lt;p&gt;If you find yourself using WeTransfer frequently, it’d be a great idea to get a free account to streamline the process. You’ll get all the benefits outlined above.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/sent-files.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Sent files with download details. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Sent files with download details. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;wetransfer-pro&quot;&gt;WeTransfer Pro&lt;/h1&gt;
 &lt;p&gt;You can also get additional features that enhance your experience using WeTransfer.These include:&lt;/p&gt;
@@ -2027,74 +2106,78 @@
 &lt;ul&gt;
   &lt;li&gt;Get your own custom WeTransfer link. This can serve as a page that showcases your portfolio. People can then use this to send files to you.&lt;/li&gt;
   &lt;li&gt;Display custom wallpapers when people download your files. These can be either photos or videos.&lt;/li&gt;
-  &lt;li&gt;Design your transfer emails, adding custom background for a personal touch.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Design your transfer emails, adding custom background for a personal touch.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;WeTransfer Pro costs $12 per month, or $120 per year. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/wetransfer/wetransfer-pro.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;WeTransfer Pro costs $12 per month, or $120 per year. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 &lt;p&gt;Online file sharing doesn’t have to be complicated. Or expensive. Next time you need to send a file larger than 25MB, the current limit for most email servers, give &lt;a href=&quot;https://wetransfer.com&quot;&gt;WeTransfer&lt;/a&gt; a try. It won’t disappoint.&lt;/p&gt;
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;Efficiency is doing better what is already being done.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Files can be shared online in a wide variety of ways, such as email, WhatsApp, iMessage, Telegram, and via online file storage services.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/wetransfer/wetransfer" /><media:content medium="image" url="http://localhost:7000/wetransfer/wetransfer" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Edit PDFs</title><link href="http://localhost:7000/articles/how-to-edit-pdfs/" rel="alternate" type="text/html" title="How to Edit PDFs" /><published>2022-01-10T00:00:00+03:00</published><updated>2022-01-10T00:00:00+03:00</updated><id>http://localhost:7000/articles/how-to-edit-pdfs</id><content type="html" xml:base="http://localhost:7000/articles/how-to-edit-pdfs/">&lt;p&gt;PDF is special because it can be viewed without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Files can be shared online in a wide variety of ways, such as email, WhatsApp, iMessage, Telegram, and via online file storage services.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/wetransfer/wetransfer" /><media:content medium="image" url="https://auxilia.io/wetransfer/wetransfer" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Edit PDFs</title><link href="https://auxilia.io/articles/how-to-edit-pdfs/" rel="alternate" type="text/html" title="How to Edit PDFs" /><published>2022-01-10T00:00:00+03:00</published><updated>2022-01-10T00:00:00+03:00</updated><id>https://auxilia.io/articles/how-to-edit-pdfs</id><content type="html" xml:base="https://auxilia.io/articles/how-to-edit-pdfs/">&lt;p&gt;PDF is special because it can be viewed without installing any additional software. This is due to the fact that it preserves all the fonts, formatting, graphics, and colour of any source document, regardless of the application and platform used to create it. That makes it universal.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, it also makes it difficult to adjust. Changes such as extracting pages, adding more pages and converting to other file formats require special software or services. One of these services is ILovePDF, a freemium web service for working with PDFs.&lt;/p&gt;
 
 &lt;h1 id=&quot;home-page&quot;&gt;Home Page&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://ILovePDF.com&quot;&gt;ILovePDF.com &lt;/a&gt; has all its tools front and centre on the homepage. These allow PDFs to be edited in a lot of different ways.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_home.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Tools as far as the eye can see. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Tools as far as the eye can see. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;merge-pdf&quot;&gt;Merge PDF&lt;/h1&gt;
 &lt;p&gt;Multiple PDFs can be combined to one using this tool. Select it and you’ll be taken to a page where you can upload the pdfs to be merged. Set the order to be used, then tap Merge PDF.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_merge.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Merge PDFs. The order can be set by dragging the files to the preferred order. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Merge PDFs. The order can be set by dragging the files to the preferred order. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;split-pdf&quot;&gt;Split PDF&lt;/h1&gt;
 &lt;p&gt;The split PDF tool takes a single PDF and either:&lt;/p&gt;
@@ -2108,95 +2191,100 @@
 
 &lt;p&gt;For both options, the resulting files can be merged into a single PDF.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
+    
+    
+    
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
+        
+        
+        &amp;lt;h3&amp;gt;Splitting by range.&amp;lt;/h3&amp;gt;
+        
+    &amp;lt;/div&amp;gt;
+    
+&amp;lt;/div&amp;gt; 
 
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_split.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Splitting by range.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; alt=&quot;&quot; /&gt;
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_extract.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Extracting specific pages. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Extracting specific pages. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;compress-pdf&quot;&gt;Compress PDF&lt;/h1&gt;
 &lt;p&gt;PDFs can get very large, which makes sharing them via email or chat more difficult than necessary. This is where the Compress PDF service comes in play. Tap on it, select the file to be compressed, and leave the compression level as recommended.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_01.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;You can upload multiple PDFs for compression.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;You can upload multiple PDFs for compression.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Tap compress PDF. The file will be uploaded, compressed, and once done the compressed file will be provided to download.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
+    
+    
+    
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
+        
+        
+        &amp;lt;h3&amp;gt;Time taken to upload the file depends on its size and network speed.&amp;lt;/h3&amp;gt;
+        
+    &amp;lt;/div&amp;gt;
+    
+&amp;lt;/div&amp;gt; 
 
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_02.jpg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Time taken to upload the file depends on its size and network speed.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; alt=&quot;&quot; /&gt;
+&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_compress_03.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Compressed file available for download. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Compressed file available for download. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;pdf-to-other-formats&quot;&gt;PDF to Other Formats&lt;/h1&gt;
 &lt;p&gt;PDFs can be converted to:&lt;/p&gt;
@@ -2229,22 +2317,23 @@
 &lt;h1 id=&quot;cost&quot;&gt;Cost&lt;/h1&gt;
 &lt;p&gt;While the service is free, the number of files that can be edited is limited to 1 per tool. For instance, you can only Split 1 PDF at a time. The Merge PDF tool can take 25 PDFs at once. There are Premium and Premium Pro plans for advanced users.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/pdfs/pdf_pricing.jpg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt; ILovePDF pricing plans. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt; ILovePDF pricing plans. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;mobile-apps&quot;&gt;Mobile Apps&lt;/h1&gt;
 &lt;p&gt;ILovePDF also offers apps for &lt;a href=&quot;https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8&quot;&gt;iPadOS&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ilovepdf.www&quot;&gt;Android&lt;/a&gt;. These work the same as the highly capable web app.&lt;/p&gt;
@@ -2254,7 +2343,7 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;The length of a document defends it well against the risk of it being read.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">If there’s one document standard that has stood the test of time, it’s the PDF, since it can be easily viewed on a wide variety of devices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/pdfs/pdfs" /><media:content medium="image" url="http://localhost:7000/pdfs/pdfs" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Podcasts with Pocket Casts</title><link href="http://localhost:7000/articles/podcasts-with-pocket-casts/" rel="alternate" type="text/html" title="Podcasts with Pocket Casts" /><published>2022-01-02T00:00:00+03:00</published><updated>2022-01-02T00:00:00+03:00</updated><id>http://localhost:7000/articles/podcasts-with-pocket-casts</id><content type="html" xml:base="http://localhost:7000/articles/podcasts-with-pocket-casts/">&lt;p&gt;Simply put, a podcast is a series of spoken audio episodes that often focus on a particular topic or theme. You can listen to one directly from its website, if it has one, or by subscribing to it via an app. Some of the most popular apps are Pocket Casts, Overcast, Castro and Anchor.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">If there’s one document standard that has stood the test of time, it’s the PDF, since it can be easily viewed on a wide variety of devices.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/pdfs/pdfs" /><media:content medium="image" url="https://auxilia.io/pdfs/pdfs" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Podcasts with Pocket Casts</title><link href="https://auxilia.io/articles/podcasts-with-pocket-casts/" rel="alternate" type="text/html" title="Podcasts with Pocket Casts" /><published>2022-01-02T00:00:00+03:00</published><updated>2022-01-02T00:00:00+03:00</updated><id>https://auxilia.io/articles/podcasts-with-pocket-casts</id><content type="html" xml:base="https://auxilia.io/articles/podcasts-with-pocket-casts/">&lt;p&gt;Simply put, a podcast is a series of spoken audio episodes that often focus on a particular topic or theme. You can listen to one directly from its website, if it has one, or by subscribing to it via an app. Some of the most popular apps are Pocket Casts, Overcast, Castro and Anchor.&lt;/p&gt;
 
 &lt;p&gt;Pocket Casts is available for iOS, Android, macOS, Windows and the web. It’s free to download on iOS and Android. The web player requires a subscription to use, as do additional features in the mobile apps. You can downloaded it from &lt;a href=&quot;https://www.pocketcasts.com&quot;&gt;the official website.&lt;/a&gt;&lt;/p&gt;
 
@@ -2268,44 +2357,47 @@
   &lt;li&gt;Be sorted by name, date added and release date.&lt;/li&gt;
   &lt;li&gt;Be arranged in a grid of 3/4 or list.&lt;/li&gt;
   &lt;li&gt;Have their badges turned on/off.&lt;/li&gt;
-  &lt;li&gt;Be shared as lists.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be shared as lists.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Podcast list and options. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/podcasts.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Podcast list and options. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Tapping on a podcast icon opens the podcast page with info on what the podcast is about, the downloaded episodes, when the episodes aired, and settings for changing when the podcast is downloaded, whether to get notifications and whether to skip intro and outro music like the power user that you are.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/single_podcast_and_settings.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Single podcast view &amp;amp; settings. One useful option to enable is automatically adding an episode to the now playing queue.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Single podcast view &amp;amp; settings. One useful option to enable is automatically adding an episode to the now playing queue.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;filters&quot;&gt;Filters&lt;/h1&gt;
 
@@ -2317,25 +2409,27 @@
   &lt;li&gt;Podcasts release date&lt;/li&gt;
   &lt;li&gt;Podcast download status&lt;/li&gt;
   &lt;li&gt;Media type, either audio or video&lt;/li&gt;
-  &lt;li&gt;Podcast episode star status&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Podcast episode star status&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Single filter view &amp;amp; options. You can change the color and icon of the filter as well as have episodes auto downloaded when released. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/filters.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Single filter view &amp;amp; options. You can change the color and icon of the filter as well as have episodes auto downloaded when released. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;discover&quot;&gt;Discover&lt;/h1&gt;
 
@@ -2346,25 +2440,27 @@
   &lt;li&gt;Trending&lt;/li&gt;
   &lt;li&gt;Popular&lt;/li&gt;
   &lt;li&gt;Networks&lt;/li&gt;
-  &lt;li&gt;Category browser&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Category browser&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Left: Discover screen with available podcasts. Right: Unsubscribed podcast with episode search.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/discover.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Left: Discover screen with available podcasts. Right: Unsubscribed podcast with episode search.&lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;p&gt;Subscribing to a podcast adds it to the Podcast tab. Episodes can also be searched for, and downloaded, without subscribing.&lt;/p&gt;
 
@@ -2372,83 +2468,87 @@
 
 &lt;p&gt;This view displays your user account, listening statistics and history, downloaded files and copied files as well as starred podcast episode. There’s a section at the top showcasing the number of podcasts you’ve subscribed to and how much time you’ve spent listening to them.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/profile_and_settings.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Profile and Settings. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Profile and Settings. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The account section has details of the currently logged in account with the option of upgrading to Pocket Casts Plus. The Plus subscription plan provides a web player, additional app icons, extra themes and 10 GB of cloud Storage for custom files at $0.99 per month.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/account_and_stats.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Account screen and Listening stats. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Account screen and Listening stats. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;files&quot;&gt;Files&lt;/h1&gt;
 
 &lt;p&gt;You can use Pocket Casts to listen to custom audio files such as audiobooks. You add these files by sharing them to the app from your devices files app. Subscribers to Pocket Casts Plus can upload the episodes to the cloud and access them on the go.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/files.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Files and settings. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Files and settings. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The files are supported by the audio effects just as well as normal podcasts episodes. I use this feature a lot as it enables me to listen to audiobooks via Pocket Casts.&lt;/p&gt;
 
 &lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/general_and_appearance.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;General settings and Appearance. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;General settings and Appearance. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Pocket Casts offers a wide variety of settings you can change to customise the app. These include:&lt;/p&gt;
 
@@ -2460,84 +2560,89 @@
   &lt;li&gt;&lt;strong&gt;Auto Archiving&lt;/strong&gt; and &lt;strong&gt;Auto Downloading&lt;/strong&gt; options.&lt;/li&gt;
   &lt;li&gt;Files settings.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Import&lt;/strong&gt; and &lt;strong&gt;Export&lt;/strong&gt; subscribed podcasts.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Help&lt;/strong&gt;, &lt;strong&gt;Feedback&lt;/strong&gt; and &lt;strong&gt;About&lt;/strong&gt; the app.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Help&lt;/strong&gt;, &lt;strong&gt;Feedback&lt;/strong&gt; and &lt;strong&gt;About&lt;/strong&gt; the app.&lt;/p&gt;
+
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
+        
+        
+        
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Left: Auto archive settings. Right: Download options. &lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/archive_and_download.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
-        
-        
-        &lt;h3&gt;Left: Auto archive settings. Right: Download options. &lt;/h3&gt;
-        
-    &lt;/div&gt;
-    
-&lt;/div&gt;
 
 &lt;h1 id=&quot;now-playing-screen&quot;&gt;Now Playing Screen&lt;/h1&gt;
 
 &lt;p&gt;The now playing screen has everything you might need when playing your podcast episodes. The podcast artwork is displayed front and centre with the play, rewind and forward buttons below it. The duration of the rewind and forward buttons can be customised from the Settings screen.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/now_playing.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Playing podcast and audiobook screens.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Playing podcast and audiobook screens.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Tabs are available at the top for switching from Now Playing to Show Notes to Chapters if the podcast episode has them. Audiobooks displays chapters instead of notes.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/notes_and_chapters.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Podcast notes &amp;amp; audiobook chapters.&lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Podcast notes &amp;amp;amp; audiobook chapters.&amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The queue button is at the top right corner, and it can also be accessed with a swipe up gesture. Episodes can be rearranged and removed from the queue with easy gestures.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/play_queue.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Up Next queue &amp;amp; episode selection. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Up Next queue &amp;amp;amp; episode selection. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Between the artwork and playback buttons is the currently playing chapter, provided the podcast supports chapters. Below the buttons there a customisable toolbar with the following options:&lt;/p&gt;
 
@@ -2555,22 +2660,23 @@
 
 &lt;p&gt;Only 4 options are displayed on screen, with the last ones delegated to the overflow menu button.&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&amp;gt;
     
     
     
-    &lt;div class=&quot;caption&quot;&gt;
+    &amp;lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/effects_and_actions.jpeg&quot; alt=&quot;&quot; /&amp;gt;
+    
+    
+    
+    &amp;lt;div class=&quot;caption&quot;&amp;gt;
         
         
-        &lt;h3&gt;Playback effects and toolbar options. &lt;/h3&gt;
+        &amp;lt;h3&amp;gt;Playback effects and toolbar options. &amp;lt;/h3&amp;gt;
         
-    &lt;/div&gt;
+    &amp;lt;/div&amp;gt;
     
-&lt;/div&gt;
+&amp;lt;/div&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Pocket Casts has a few audio effects that make listening to podcasts even better. There are 3 playback effects that enhance your listening experience:&lt;/p&gt;
 
@@ -2592,27 +2698,26 @@
   &lt;li&gt;Playing podcasts without subscribing. This allows you to listen to a podcast first before deciding whether or not to subscribe to it.&lt;/li&gt;
   &lt;li&gt;Episode search. You can search for specific episodes inside a podcast.&lt;/li&gt;
   &lt;li&gt;Import and export of podcasts. This allows you to switch podcasts apps at will.&lt;/li&gt;
-  &lt;li&gt;Epic change logs. Go to the about page and waste hours of your life reading their engaging change logs. It’s time well spent 🤓&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Epic change logs. Go to the about page and waste hours of your life reading their engaging change logs. It’s time well spent 🤓&lt;/p&gt;
 
-&lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
-
-    
-    
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; alt=&quot;&quot; /&gt;
-    
-    
-    
-    &lt;div class=&quot;caption&quot;&gt;
+    &lt;div class=&quot;media my-8 w-[90%] mx-auto&quot;&gt;
         
         
-        &lt;h3&gt;Import/Export screen and About page.&lt;/h3&gt;
         
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-
-&lt;ul&gt;
+      &lt;img class=&quot;rounded-lg&quot; src=&quot;/assets/foto/articolo/casts/import_and_about.jpeg&quot; alt=&quot;&quot; /&gt;
+        
+        
+        
+      &lt;div class=&quot;caption&quot;&gt;
+            
+            
+          &lt;h3&gt;Import/Export screen and About page.&lt;/h3&gt;
+            
+      &lt;/div&gt;
+        
+  &lt;/div&gt;
+  &lt;/li&gt;
   &lt;li&gt;Cross platform support. Pocket Casts is available for iPhone, iPad, Android, macOS and Windows. You can use it anywhere you want as long as it’s in the above devices.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -2622,4 +2727,4 @@
 
 &lt;div class=&quot;mt-7 mx-24 text-center font-display text-brand&quot;&gt;
         &lt;h3 class=&quot;text-xl md:text-2xl&quot;&gt;&quot;It's part of the human condition to want to share things - thoughts, ideas, opinions.&quot;&lt;/h3&gt; 
-&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Pocket Casts does a great job with podcasts, providing a host of features such as auto-download, auto-archive, and reliable search.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7000/casts/casts" /><media:content medium="image" url="http://localhost:7000/casts/casts" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Joshua M.</name></author><summary type="html">Pocket Casts does a great job with podcasts, providing a host of features such as auto-download, auto-archive, and reliable search.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://auxilia.io/casts/casts" /><media:content medium="image" url="https://auxilia.io/casts/casts" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
