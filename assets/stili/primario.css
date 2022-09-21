@@ -1965,7 +1965,8 @@ a:hover .icon.prev-post {
 
 }
 
-.caption {
+.caption,
+.wp-caption-text {
     position: relative;
     width: 100%;
     margin: 1em auto;
