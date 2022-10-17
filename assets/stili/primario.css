@@ -1063,6 +1063,10 @@ select {
     margin-bottom: 0.5rem;
 }
 
+.-mt-\[80px\] {
+    margin-top: -80px;
+}
+
 .mt-2 {
     margin-top: 0.5rem;
 }
@@ -1679,10 +1683,6 @@ select {
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.outline {
-    outline-style: solid;
-}
-
 .drop-shadow {
     --tw-drop-shadow: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
@@ -2066,6 +2066,11 @@ html {
     .md\:mx-32 {
         margin-left: 8rem;
         margin-right: 8rem;
+    }
+
+    .md\:my-28 {
+        margin-top: 7rem;
+        margin-bottom: 7rem;
     }
 
     .md\:ml-auto {
