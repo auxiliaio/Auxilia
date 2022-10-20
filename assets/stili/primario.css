@@ -1063,10 +1063,6 @@ select {
     margin-bottom: 0.5rem;
 }
 
-.mr-1 {
-    margin-right: 0.25rem;
-}
-
 .mt-2 {
     margin-top: 0.5rem;
 }
@@ -1938,7 +1934,7 @@ a:hover .icon.prev-post {
 .content h2 {
     font-family: Magicher;
     color: var(--brand);
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 
 .content h1 {
