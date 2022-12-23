@@ -1561,6 +1561,10 @@ select {
     padding-right: 1rem;
 }
 
+.pb-0 {
+    padding-bottom: 0px;
+}
+
 .text-center {
     text-align: center;
 }
@@ -2099,6 +2103,10 @@ html {
 
     .md\:mt-14 {
         margin-top: 3.5rem;
+    }
+
+    .md\:mt-28 {
+        margin-top: 7rem;
     }
 
     .md\:flex {
