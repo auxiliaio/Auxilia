@@ -1051,10 +1051,6 @@ select {
     margin-top: 0px;
 }
 
-.mb-8 {
-    margin-bottom: 2rem;
-}
-
 .mr-3 {
     margin-right: 0.75rem;
 }
@@ -1069,6 +1065,10 @@ select {
 
 .-mt-\[80px\] {
     margin-top: -80px;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
 }
 
 .mb-1 {
@@ -1418,9 +1418,9 @@ select {
     padding-right: 1.25rem;
 }
 
-.px-12 {
-    padding-left: 3rem;
-    padding-right: 3rem;
+.px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .px-6 {
@@ -1431,6 +1431,11 @@ select {
 .py-2 {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+}
+
+.px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 .px-7 {
@@ -1466,11 +1471,6 @@ select {
 .px-4 {
     padding-left: 1rem;
     padding-right: 1rem;
-}
-
-.px-8 {
-    padding-left: 2rem;
-    padding-right: 2rem;
 }
 
 .py-0 {
