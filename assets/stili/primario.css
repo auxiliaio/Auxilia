@@ -196,6 +196,21 @@
             animation-name: fade-in;
 }
 
+/* Bounce In */
+
+.hvr-bounce-in {
+  display: inline-block;
+  vertical-align: middle;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  transition-duration: 0.5s;
+}
+
+.hvr-bounce-in:hover, .hvr-bounce-in:focus, .hvr-bounce-in:active {
+  transform: scale(1.2);
+  transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+}
+
 /* ! tailwindcss v3.0.22 | MIT License | https://tailwindcss.com */
 
 /*
@@ -1047,12 +1062,12 @@ select {
     margin-bottom: 3.5rem;
 }
 
-.mt-0 {
-    margin-top: 0px;
-}
-
 .mr-3 {
     margin-right: 0.75rem;
+}
+
+.mt-0 {
+    margin-top: 0px;
 }
 
 .-mt-12 {
@@ -1151,8 +1166,8 @@ select {
     height: 13rem;
 }
 
-.h-12 {
-    height: 3rem;
+.h-20 {
+    height: 5rem;
 }
 
 .h-24 {
@@ -1708,6 +1723,8 @@ select {
 
 :root {
     --brand: #4f46e5;
+    /* --brand: #00d179; */
+    /* --dark: #00d179; */
     --light: #f2f2fc;
     --dark: #3730a3;
     --black: #0f172a;
@@ -2020,12 +2037,29 @@ a:hover .icon.prev-post {
 }
 
 .menu-nav {
-    padding: 12px;
+    padding: 8px;
+    margin-top: 30px;
     border-radius: 100px;
     background: var(--light);
     background-blend-mode: luminosity;
     -webkit-backdrop-filter: blur(50px);
             backdrop-filter: blur(50px);
+}
+
+.menu-nav-white {
+    padding: 8px;
+    margin-top: 30px;
+    border-radius: 100px;
+    background: var(--brand);
+    background-blend-mode: luminosity;
+    -webkit-backdrop-filter: blur(50px);
+            backdrop-filter: blur(50px);
+}
+
+.header-logo {
+    position: absolute;
+    top: 22px;
+    z-index: 2;
 }
 
 .hover\:rounded-lg:hover {
@@ -2138,10 +2172,6 @@ a:hover .icon.prev-post {
 
     .md\:h-60 {
         height: 15rem;
-    }
-
-    .md\:h-24 {
-        height: 6rem;
     }
 
     .md\:h-16 {
