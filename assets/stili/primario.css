@@ -1147,10 +1147,6 @@ select {
     width: 100%;
 }
 
-.w-\[90\%\] {
-    width: 90%;
-}
-
 .w-\[80\%\] {
     width: 80%;
 }
@@ -1185,6 +1181,10 @@ select {
 
 .max-w-lg {
     max-width: 32rem;
+}
+
+.grow {
+    flex-grow: 1;
 }
 
 .basis-1\/2 {
@@ -1275,9 +1275,9 @@ select {
     border-color: rgb(199 210 254 / var(--tw-border-opacity));
 }
 
-.bg-white {
+.bg-slate-50 {
     --tw-bg-opacity: 1;
-    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+    background-color: rgb(248 250 252 / var(--tw-bg-opacity));
 }
 
 .bg-brand {
@@ -1290,9 +1290,9 @@ select {
     background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
-.bg-light {
+.bg-white {
     --tw-bg-opacity: 1;
-    background-color: rgb(242 242 252 / var(--tw-bg-opacity));
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .bg-cover {
@@ -1377,11 +1377,6 @@ select {
 .px-2 {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-}
-
-.px-3 {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
 }
 
 .py-0 {
@@ -1506,11 +1501,6 @@ select {
 .text-5xl {
     font-size: 3rem;
     line-height: 1;
-}
-
-.text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
 }
 
 .font-medium {
@@ -1844,7 +1834,7 @@ a:hover .icon.prev-post {
     text-align: center;
     font-size: 0.875rem;
     font-weight: 500;
-    color: var(--brand);
+    color: var(--black);
 }
 
 .quote {
