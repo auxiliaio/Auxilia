@@ -1416,6 +1416,10 @@ select {
     padding-right: 2rem;
 }
 
+.pt-6 {
+    padding-top: 1.5rem;
+}
+
 .pt-7 {
     padding-top: 1.75rem;
 }
@@ -2057,6 +2061,10 @@ a:hover .icon.prev-post {
 
     .md\:pr-2 {
         padding-right: 0.5rem;
+    }
+
+    .md\:pb-4 {
+        padding-bottom: 1rem;
     }
 
     .md\:pb-20 {
