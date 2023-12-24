@@ -1,38 +1,31 @@
 @font-face {
-    font-family: 'Galano Grotesque';
-    src: local('Galano Grotesque Medium'), local('GalanoGrotesque-Medium'),
-        url('fonte/GalanoGrotesque-Medium.woff2') format('woff2'),
-        url('fonte/GalanoGrotesque-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Galano Grotesque';
-    src: local('Galano Grotesque Regular'), local('GalanoGrotesque-Regular'),
-        url('fonte/GalanoGrotesque-Regular.woff2') format('woff2'),
-        url('fonte/GalanoGrotesque-Regular.woff') format('woff');
+    font-family: 'ClashDisplay';
+    src: local('ClashDisplay Regular'), local('ClashDisplayRegular'),
+        url('fonte/ClashDisplayMedium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
-    font-family: 'Galano Grotesque';
-    src: local('Galano Grotesque Bold'), local('GalanoGrotesque-Bold'),
-        url('fonte/GalanoGrotesque-Bold.woff2') format('woff2'),
-        url('fonte/GalanoGrotesque-Bold.woff') format('woff');
+    font-family: 'ClashDisplay';
+    src: local('ClashDisplay Bold'), local('ClashDisplayBold'),
+        url('fonte/ClashDisplayBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
-    font-family: 'Magicher';
-    src: local('Magicher'),
-        url('fonte/Magicher.woff2') format('woff2'),
-        url('fonte/Magicher.woff') format('woff');
+    font-family: 'ClashDisplay';
+    src: local('ClashDisplay Medium'), local('ClashDisplayMedium'),
+        url('fonte/ClashDisplayMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BricolageGrotesque';
+    src: local('BricolageGrotesque'),
+        url('fonte/BricolageGrotesque.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
