@@ -1117,6 +1117,10 @@ select {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
 }
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
 .py-0 {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -1410,7 +1414,7 @@ a:hover .icon.prev-post {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    border: 1px solid var(--light);
+    border: 2px solid var(--brand);
     margin: 0 10px;
     cursor: pointer;
     transition: all .5s ease-in-out;
