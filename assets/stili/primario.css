@@ -1,23 +1,23 @@
 @font-face {
-    font-family: 'ClashDisplay';
-    src: local('ClashDisplay Regular'), local('ClashDisplayRegular'),
-        url('fonte/ClashDisplayMedium.woff') format('woff');
+    font-family: 'Outfit';
+    src: local('Outfit Regular'), local('OutfitRegular'),
+        url('fonte/OutfitRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'ClashDisplay';
-    src: local('ClashDisplay Bold'), local('ClashDisplayBold'),
-        url('fonte/ClashDisplayBold.woff') format('woff');
+    font-family: 'Outfit';
+    src: local('Outfit Bold'), local('OutfitBold'),
+        url('fonte/OutfitBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'ClashDisplay';
-    src: local('ClashDisplay Medium'), local('ClashDisplayMedium'),
-        url('fonte/ClashDisplayMedium.woff') format('woff');
+    font-family: 'Outfit';
+    src: local('Outfit Medium'), local('OutfitRegular'),
+        url('fonte/OutfitRegular.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -210,7 +210,7 @@ html {
   -moz-tab-size: 4; /* 3 */
   -o-tab-size: 4;
      tab-size: 4; /* 3 */
-  font-family: ClashDisplay; /* 4 */
+  font-family: Outfit; /* 4 */
 }
 /*
 1. Remove the margin in all browsers.
