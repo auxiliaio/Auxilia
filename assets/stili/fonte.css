@@ -15,14 +15,6 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'Outfit';
-    src: local('Outfit Medium'), local('OutfitRegular'),
-        url('fonte/OutfitRegular.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
     font-family: 'BricolageGrotesque';
     src: local('BricolageGrotesque'),
         url('fonte/BricolageGrotesque.woff') format('woff');
