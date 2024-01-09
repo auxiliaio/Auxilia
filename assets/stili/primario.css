@@ -760,6 +760,10 @@ select {
     margin-left: 3.5rem;
     margin-right: 3.5rem;
 }
+.mx-4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
 .my-2 {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
@@ -767,10 +771,6 @@ select {
 .my-1 {
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
-}
-.mx-4 {
-    margin-left: 1rem;
-    margin-right: 1rem;
 }
 .my-8 {
     margin-top: 2rem;
@@ -841,17 +841,17 @@ select {
 .mt-1 {
     margin-top: 0.25rem;
 }
-.mb-8 {
-    margin-bottom: 2rem;
+.mb-6 {
+    margin-bottom: 1.5rem;
+}
+.mb-2 {
+    margin-bottom: 0.5rem;
 }
 .mb-1 {
     margin-bottom: 0.25rem;
 }
 .-mt-20 {
     margin-top: -5rem;
-}
-.mb-2 {
-    margin-bottom: 0.5rem;
 }
 .mt-2 {
     margin-top: 0.5rem;
@@ -937,6 +937,12 @@ select {
 .max-h-0 {
     max-height: 0px;
 }
+.w-\[95\%\] {
+    width: 95%;
+}
+.w-\[120px\] {
+    width: 120px;
+}
 .w-full {
     width: 100%;
 }
@@ -948,9 +954,6 @@ select {
 }
 .w-\[80\%\] {
     width: 80%;
-}
-.w-\[95\%\] {
-    width: 95%;
 }
 .w-7 {
     width: 1.75rem;
@@ -1017,6 +1020,9 @@ select {
 }
 .whitespace-nowrap {
     white-space: nowrap;
+}
+.rounded-none {
+    border-radius: 0px;
 }
 .rounded {
     border-radius: 0.25rem;
@@ -1093,13 +1099,13 @@ select {
 .p-7 {
     padding: 1.75rem;
 }
-.px-8 {
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
 .py-2 {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+}
+.px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 .px-12 {
     padding-left: 3rem;
@@ -1149,6 +1155,9 @@ select {
     padding-top: 0px;
     padding-bottom: 0px;
 }
+.pb-32 {
+    padding-bottom: 8rem;
+}
 .pb-28 {
     padding-bottom: 7rem;
 }
@@ -1178,12 +1187,6 @@ select {
 }
 .pt-6 {
     padding-top: 1.5rem;
-}
-.pb-32 {
-    padding-bottom: 8rem;
-}
-.pt-7 {
-    padding-top: 1.75rem;
 }
 .pb-8 {
     padding-bottom: 2rem;
@@ -1672,14 +1675,17 @@ a:hover .icon.prev-post {
     .md\:h-52 {
         height: 13rem;
     }
+    .md\:w-\[80\%\] {
+        width: 80%;
+    }
+    .md\:w-\[180px\] {
+        width: 180px;
+    }
     .md\:w-\[95\%\] {
         width: 95%;
     }
     .md\:w-1\/2 {
         width: 50%;
-    }
-    .md\:w-\[80\%\] {
-        width: 80%;
     }
     .md\:w-1\/3 {
         width: 33.333333%;
@@ -1699,13 +1705,13 @@ a:hover .icon.prev-post {
     .md\:rounded-none {
         border-radius: 0px;
     }
-    .md\:rounded-r-none {
-        border-top-right-radius: 0px;
-        border-bottom-right-radius: 0px;
-    }
     .md\:rounded-l-none {
         border-top-left-radius: 0px;
         border-bottom-left-radius: 0px;
+    }
+    .md\:rounded-r-none {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
     }
     .md\:border-r-0 {
         border-right-width: 0px;
@@ -1737,6 +1743,9 @@ a:hover .icon.prev-post {
         padding-left: 1.75rem;
         padding-right: 1.75rem;
     }
+    .md\:pb-24 {
+        padding-bottom: 6rem;
+    }
     .md\:pt-0 {
         padding-top: 0px;
     }
@@ -1745,9 +1754,6 @@ a:hover .icon.prev-post {
     }
     .md\:pb-4 {
         padding-bottom: 1rem;
-    }
-    .md\:pb-20 {
-        padding-bottom: 5rem;
     }
     .md\:pr-0 {
         padding-right: 0px;
@@ -1797,9 +1803,6 @@ a:hover .icon.prev-post {
     .lg\:grid-cols-2 {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
-    .lg\:rounded-none {
-        border-radius: 0px;
-    }
     .lg\:rounded-r-none {
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -1807,12 +1810,6 @@ a:hover .icon.prev-post {
     .lg\:rounded-l-none {
         border-top-left-radius: 0px;
         border-bottom-left-radius: 0px;
-    }
-    .lg\:border-r-0 {
-        border-right-width: 0px;
-    }
-    .lg\:border-l-0 {
-        border-left-width: 0px;
     }
     .lg\:py-7 {
         padding-top: 1.75rem;
