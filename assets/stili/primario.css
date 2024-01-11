@@ -985,6 +985,26 @@ select {
 .transform {
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
+@-webkit-keyframes loop-scroll {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+@keyframes loop-scroll {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+.animate-loop-scroll {
+    -webkit-animation: loop-scroll 50s linear infinite;
+            animation: loop-scroll 50s linear infinite;
+}
 .cursor-pointer {
     cursor: pointer;
 }
@@ -1014,6 +1034,11 @@ select {
 }
 .gap-3 {
     gap: 0.75rem;
+}
+.space-x-4 > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-x-reverse: 0;
+    margin-right: calc(1rem * var(--tw-space-x-reverse));
+    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
 }
 .overflow-hidden {
     overflow: hidden;
@@ -1681,6 +1706,9 @@ a:hover .icon.prev-post {
     .md\:w-\[180px\] {
         width: 180px;
     }
+    .md\:w-\[90\%\] {
+        width: 90%;
+    }
     .md\:w-\[95\%\] {
         width: 95%;
     }
@@ -1840,6 +1868,9 @@ a:hover .icon.prev-post {
     .xl\:w-\[60\%\] {
         width: 60%;
     }
+    .xl\:w-\[70\%\] {
+        width: 70%;
+    }
     .xl\:w-\[65\%\] {
         width: 65%;
     }
@@ -1851,5 +1882,8 @@ a:hover .icon.prev-post {
     }
     .\32xl\:w-\[55\%\] {
         width: 55%;
+    }
+    .\32xl\:w-\[58\%\] {
+        width: 58%;
     }
 }
