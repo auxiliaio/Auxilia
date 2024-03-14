@@ -1,13 +1,4 @@
-'use strict'
-var testim = document.getElementById("testim");
-var testimDots = Array.prototype.slice.call(document.getElementById("testim-dots").children);
-var testimContent = Array.prototype.slice.call(document.getElementById("testim-content").children);
-var testimSpeed = 10500;
-var currentSlide = 0;
-var currentActive = 0;
-var testimTimer;
-
-// EFFECT
+// TEXT SCROLL
 var TxtType = function(el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
@@ -32,9 +23,7 @@ TxtType.prototype.tick = function() {
 
     var that = this;
     var delta = 200 - Math.random() * 100;
-
     if (this.isDeleting) { delta /= 2; }
-
     if (!this.isDeleting && this.txt === fullTxt) {
     delta = this.period;
     this.isDeleting = true;
@@ -48,11 +37,17 @@ TxtType.prototype.tick = function() {
     that.tick();
     }, delta);
 };
-// EFFECT
+
+// TESTIMONIALS
+var testim = document.getElementById("testim");
+var testimDots = Array.prototype.slice.call(document.getElementById("testim-dots").children);
+var testimContent = Array.prototype.slice.call(document.getElementById("testim-content").children);
+var testimSpeed = 10500;
+var currentSlide = 0;
+var currentActive = 0;
+var testimTimer;
 
 window.onload = function() {
-
-    // Testim Script
     function playSlide(slide) {
         for (var k = 0; k < testimDots.length; k++) {
             testimContent[k].classList.remove("active");
@@ -98,11 +93,20 @@ window.onload = function() {
           new TxtType(elements[i], JSON.parse(toRotate), period);
         }
     }
-    // INJECT CSS
-    // var css = document.createElement("style");
-    // css.type = "text/css";
-    // css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
-    // document.body.appendChild(css);
-
 }
 
+// REVEAL ANIMATIONfunction reveal() {
+  var reveals = document.querySelectorAll(".svelare");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 150;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}

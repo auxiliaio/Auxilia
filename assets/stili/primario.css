@@ -117,7 +117,6 @@
     height: 100%;
     z-index: 999999;
     pointer-events: none;
-    /*background: #4f46e5;*/
     background: #fff;
     -webkit-animation-duration: 500ms;
             animation-duration: 500ms;
@@ -172,6 +171,17 @@
 .hvr-bounce-in:hover, .hvr-bounce-in:focus, .hvr-bounce-in:active {
   transform: scale(1.2);
   transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+}
+/* Reveal */
+.svelare{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 0.7s all ease;
+}
+.svelare.active{
+  transform: translateY(0);
+  opacity: 1;
 }
 /* ! tailwindcss v3.0.22 | MIT License | https://tailwindcss.com */
 /*
@@ -1330,7 +1340,7 @@ html {
     overflow-x: hidden;
 }
 /* body {
-    background: #ffffff !important;
+    background: #1a1a1a !important;
 } */
 span {
     display: inline-block;
