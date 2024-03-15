@@ -1337,7 +1337,7 @@ select {
 }
 html {
     font-size: 14px;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 /* body {
     background: #1a1a1a !important;
