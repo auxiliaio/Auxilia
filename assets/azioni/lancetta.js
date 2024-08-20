@@ -69,7 +69,7 @@ const load = () => {
      width: 0.15,
      height: 0.15,
      opacity: 0.15,
-     transform: 0.07,
+     transform: 0.01,
    })};
    margin: 0px !important;
    padding: 0px !important;
@@ -274,7 +274,7 @@ const useTextCursor = () => {
   const fontSize = window
     .getComputedStyle($.hoveredElement)
     .getPropertyValue("font-size");
-  $.cursorWidth = "1px";
+  $.cursorWidth = "3px";
   $.cursorHeight = fontSize;
 };
 
@@ -293,14 +293,14 @@ const parallaxShiftAmount = (elementToGetDimensionsFrom, offsetW, offsetH) => {
     y,
   } = elementToGetDimensionsFrom.getBoundingClientRect();
 
-  const elementCentre = { x: x + w / 2, y: y + h / 2 };
+  const elementCentre = { x: x + w / 1, y: y + h / 1 };
   const mouseDistanceFromCentre = {
     x: $.mouseX - elementCentre.x,
     y: $.mouseY - elementCentre.y,
   };
   const parallaxFactor = {
-    x: offsetW / (w / 2),
-    y: offsetH / (h / 2),
+    x: offsetW / (w / 1),
+    y: offsetH / (h / 1),
   };
   return {
     x: mouseDistanceFromCentre.x * parallaxFactor.x,
