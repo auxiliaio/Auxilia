@@ -1339,9 +1339,9 @@ html {
     font-size: 14px;
     overflow-x: hidden !important;
 }
-/* body {
-    background: #1a1a1a !important;
-} */
+body {
+    background: #ffffff !important;
+}
 span {
     display: inline-block;
 }
