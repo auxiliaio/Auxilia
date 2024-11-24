@@ -1364,6 +1364,9 @@ body {
 span {
     display: inline-block;
 }
+.section-bg {
+    color: var(--sec-bg);
+}
 ::-moz-selection {
     color: var(--light);
     background: var(--brand);
