@@ -787,9 +787,9 @@ select {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
-.my-7 {
-    margin-top: 1.75rem;
-    margin-bottom: 1.75rem;
+.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .mx-3 {
     margin-left: 0.75rem;
@@ -822,10 +822,6 @@ select {
 .my-2 {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-}
-.my-4 {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
 }
 .mb-32 {
     margin-bottom: 8rem;
@@ -940,6 +936,9 @@ select {
 }
 .grid {
     display: grid;
+}
+.h-\[320px\] {
+    height: 320px;
 }
 .h-\[400px\] {
     height: 400px;
@@ -1695,6 +1694,9 @@ a:hover .icon.prev-post {
     }
     .md\:mb-32 {
         margin-bottom: 8rem;
+    }
+    .md\:h-\[400px\] {
+        height: 400px;
     }
     .md\:h-56 {
         height: 14rem;
