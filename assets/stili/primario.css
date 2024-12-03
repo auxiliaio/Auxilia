@@ -1079,6 +1079,9 @@ select {
 .rounded {
     border-radius: 0.25rem;
 }
+.rounded-md {
+    border-radius: 0.375rem;
+}
 .rounded-full {
     border-radius: 9999px;
 }
@@ -1118,6 +1121,10 @@ select {
 .bg-white {
     --tw-bg-opacity: 1;
     background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.bg-background {
+    --tw-bg-opacity: 1;
+    background-color: rgb(79 70 229 / var(--tw-bg-opacity));
 }
 .bg-overlay {
     --tw-bg-opacity: 1;
