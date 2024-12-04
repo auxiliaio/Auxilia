@@ -1087,25 +1087,25 @@ select {
     --tw-border-opacity: 1;
     border-color: rgb(199 210 254 / var(--tw-border-opacity));
 }
-.bg-brand {
+.bg-bkg {
     --tw-bg-opacity: 1;
     background-color: rgb(79 70 229 / var(--tw-bg-opacity));
 }
-.bg-black {
+.bg-gray {
     --tw-bg-opacity: 1;
-    background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity));
 }
-.bg-white {
-    --tw-bg-opacity: 1;
-    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-.bg-background {
+.bg-brand {
     --tw-bg-opacity: 1;
     background-color: rgb(79 70 229 / var(--tw-bg-opacity));
 }
 .bg-overlay {
     --tw-bg-opacity: 1;
     background-color: rgb(224 231 255 / var(--tw-bg-opacity));
+}
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 .bg-cover {
     background-size: cover;
@@ -1328,10 +1328,9 @@ select {
 }
 :root {
     --brand: #4f46e5;
-    /* --light: #f2f2fc; */
     --light: #ffffff;
     --black: #0f172a;
-    --dark: #000;
+    --dark: #1D1D1D;
 }
 * {
     transition: all 0.3s ease-out;
@@ -1500,11 +1499,12 @@ a:hover .icon.prev-post {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    border: 2px solid var(--brand);
+
     margin: 0 10px;
     cursor: pointer;
     transition: all .5s ease-in-out;
     position: relative;
+  border: 2px solid var(--brand);
 }
 .testim .dots .dot.active,
 .testim .dots .dot:hover {
