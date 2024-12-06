@@ -861,14 +861,14 @@ select {
 .-mt-28 {
     margin-top: -7rem;
 }
-.-mt-\[80px\] {
-    margin-top: -80px;
-}
 .mr-2 {
     margin-right: 0.5rem;
 }
 .mt-1 {
     margin-top: 0.25rem;
+}
+.-mt-\[80px\] {
+    margin-top: -80px;
 }
 .mb-2 {
     margin-bottom: 0.5rem;
