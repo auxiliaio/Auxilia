@@ -1392,6 +1392,7 @@ select {
     --light: #ffffff;
     --black: #0f172a;
     --dark: #1D1D1D;
+    --text: #7E7F95;
 }
 * {
     transition: all 0.3s ease-out;
@@ -1428,9 +1429,6 @@ span {
     height: 100%;
     -o-object-fit: cover;
        object-fit: cover;
-}
-.carda-image {
-    filter: brightness(49%);
 }
 .adesso-image {
     filter: brightness(28%);
@@ -1526,6 +1524,9 @@ a:hover .icon.prev-post {
     transform: translate(-1rem, 0);
 }
 /* Lavori cards */
+.carda-image {
+    filter: brightness(100%);
+}
 .carda:hover:before {
     opacity: 1;
 }
@@ -1540,10 +1541,11 @@ a:hover .icon.prev-post {
     background: linear-gradient(to bottom,
             rgba(79, 70, 229, 0),
             rgba(79, 70, 229, 0) 20%,
-            rgba(79, 70, 229, 0.2));
+            rgba(79, 70, 229, 0.2),
+          rgba(0, 0, 0, 0.8));
     z-index: 2;
     transition: 0.5s;
-    opacity: 0;
+    opacity: 1;
     overflow: hidden;
 }
 .carda .icon {
@@ -1793,6 +1795,17 @@ a:hover .icon.prev-post {
     .md\:gap-2 {
         gap: 0.5rem;
     }
+    .md\:gap-0 {
+        gap: 0px;
+    }
+    .md\:rounded-r-none {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    .md\:rounded-l-none {
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
     .md\:border-r-0 {
         border-right-width: 0px;
     }
@@ -1891,14 +1904,6 @@ a:hover .icon.prev-post {
     .lg\:rounded-r-\[2rem\] {
         border-top-right-radius: 2rem;
         border-bottom-right-radius: 2rem;
-    }
-    .lg\:rounded-r-none {
-        border-top-right-radius: 0px;
-        border-bottom-right-radius: 0px;
-    }
-    .lg\:rounded-l-none {
-        border-top-left-radius: 0px;
-        border-bottom-left-radius: 0px;
     }
     .lg\:px-8 {
         padding-left: 2rem;
