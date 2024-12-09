@@ -954,9 +954,6 @@ select {
 .grid {
     display: grid;
 }
-.h-\[320px\] {
-    height: 320px;
-}
 .h-full {
     height: 100%;
 }
@@ -1076,6 +1073,9 @@ select {
 .flex-wrap {
     flex-wrap: wrap;
 }
+.place-content-center {
+    place-content: center;
+}
 .items-center {
     align-items: center;
 }
@@ -1087,6 +1087,9 @@ select {
 }
 .gap-2 {
     gap: 0.5rem;
+}
+.gap-0 {
+    gap: 0px;
 }
 .gap-4 {
     gap: 1rem;
@@ -1755,9 +1758,6 @@ a:hover .icon.prev-post {
     .md\:mb-32 {
         margin-bottom: 8rem;
     }
-    .md\:h-\[400px\] {
-        height: 400px;
-    }
     .md\:h-56 {
         height: 14rem;
     }
@@ -1793,20 +1793,6 @@ a:hover .icon.prev-post {
     }
     .md\:gap-2 {
         gap: 0.5rem;
-    }
-    .md\:gap-0 {
-        gap: 0px;
-    }
-    .md\:rounded-r-none {
-        border-top-right-radius: 0px;
-        border-bottom-right-radius: 0px;
-    }
-    .md\:rounded-l-none {
-        border-top-left-radius: 0px;
-        border-bottom-left-radius: 0px;
-    }
-    .md\:border-r-0 {
-        border-right-width: 0px;
     }
     .md\:py-10 {
         padding-top: 2.5rem;
